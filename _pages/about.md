@@ -25,7 +25,7 @@ social: false  # includes social icons at the bottom of the page
 <Strong>News</strong>
 
 <ul align="justify">
-  <li>[Feb 2025] Call for candidates: <a href="https://www.findaphd.com/phds/project/uom-a-star-controlled-synthesis-of-virtual-patient-population-with-multimodal-representation-learning/?p182543/">The University of Manchester-A*STAR PhD Programme</a> (Application deadline: 21 March 2025).</li>
+  <li>[Feb 2025] Call for candidates: <a href="https://www.findaphd.com/phds/project/uom-a-star-controlled-synthesis-of-virtual-patient-population-with-multimodal-representation-learning/?p182543/">The University of Manchester-A*STAR PhD Programme</a>. Application deadline: 21 March.</li>
   <li>[Dec 2024] Our paper on Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval has been accepted for publication by the AAAI Conference on Artificial Intelligence 2025.</li>
   <li>[Aug 2024] Our team ranked the 3rd place out of 100+ participating teams in the <a href="https://aisingapore.org/global-challenge-for-safe-and-secure-llms/">Global Challenge for Safe and Secure LLMs</a> Track 1A, organised by AI Singapore and the CyberSG Research and Development Programme Office (CRPO).</li>
   <li>[Aug 2024] Our project on Cyber Sentinel: A Unified Framework for Safeguarding Foundation Models has been awarded the <a href="https://www.ntu.edu.sg/crpo/crpo-verticals/grant-management/grand-challenge">CyberSG Research and Development Programme Office (CRPO) Grand Challenge</a> Funding.</li>
