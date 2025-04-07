@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 <li>
+<b>Advanced Optical Metrology for Asian Skin Health and Diseases (OPTIMAS)</b><br>
+RIE2025 Human Health and Potential (HHP) Industry Alignment Fund Pre-positioning (IAF-PP). 2025 - 2029. Co-Investigator.
+</li><br>
+<li>
 <b>Cyber Sentinel: A Unified Framework for Safeguarding Foundation Models</b><br>
 <a href="https://www.ntu.edu.sg/crpo/crpo-verticals/grant-management/grand-challenge">CyberSG Research and Development Programme Office (CRPO) Grand Challenge</a>. 2024 - 2027.
 </li><br>
