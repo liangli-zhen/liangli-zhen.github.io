@@ -8,11 +8,11 @@ nav_order: 4
 ---
 <li>
 <b>Advanced Optical Metrology for Asian Skin Health and Diseases (OPTIMAS)</b><br>
-RIE2025 Human Health and Potential (HHP) Industry Alignment Fund Pre-positioning (IAF-PP). 2025 - 2029. Co-Investigator.
+RIE2025 Human Health and Potential (HHP) Industry Alignment Fund Pre-positioning (IAF-PP). 2025 - 2029. Co-Investigator and IHPC Team Technical Lead.
 </li><br>
 <li>
 <b>Cyber Sentinel: A Unified Framework for Safeguarding Foundation Models</b><br>
-<a href="https://www.ntu.edu.sg/crpo/crpo-verticals/grant-management/grand-challenge">CyberSG Research and Development Programme Office (CRPO) Grand Challenge</a>. 2024 - 2027.
+<a href="https://www.ntu.edu.sg/crpo/crpo-verticals/grant-management/grand-challenge">CyberSG Research and Development Programme Office (CRPO) Grand Challenge</a>. 2024 - 2027. A*STAR Team Technical Lead.
 </li><br>
 <li>
 <b><a href="https://aisingapore.org/development-of-stable-robust-and-secure-intelligent-systems-for-autonomous-vehicles/#:~:text=This%20project%20will%20harness%20the,adversarial%20attacks%20in%20complex%20environments.">Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles</a></b><br>
