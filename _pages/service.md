@@ -11,7 +11,7 @@ horizontal: false
 
 Senior Member of the IEEE
 	
-Research group leader (I lead a vibrant Reliable AI research group comprising motivated scientists and engineers)
+Research group leader (I lead the Reliable AI Research Group at A*STAR)
 
 Member of the <a href="http://www.cs.bham.ac.uk/~limx/MaOP.html">IEEE Computational Intelligence Society Task Force on Many-Objective Optimisation</a>
 
