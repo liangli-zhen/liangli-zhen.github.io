@@ -11,7 +11,7 @@ horizontal: false
 
 Senior Member of the IEEE
 	
-Research group leader (I lead the AI safety Research Group at A*STAR)
+Research group leader (I lead the AI safety Research Group with 10 Research Scientists and 2 Engineers at A*STAR)
 
 Member of the <a href="http://www.cs.bham.ac.uk/~limx/MaOP.html">IEEE Computational Intelligence Society Task Force on Many-Objective Optimisation</a>
 
