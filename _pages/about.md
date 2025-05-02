@@ -27,8 +27,7 @@ social: false  # includes social icons at the bottom of the page
 <ul align="justify">
   <li>[Apr 2025] Our paper on A Survey and Evaluation of Adversarial Attacks in Object Detection has been accepted for publication by the IEEE Transactions on Neural Networks and Learning Systems.</li>
   <li>[Feb 2025] Call for candidates: <a href="https://www.findaphd.com/phds/project/uom-a-star-controlled-synthesis-of-virtual-patient-population-with-multimodal-representation-learning/?p182543/">The University of Manchester-A*STAR PhD Programme</a>. Application deadline: 21 March.</li>
-  <li>[Dec 2024] Our paper on Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval has been accepted for publication by the AAAI Conference on Artificial Intelligence 2025.</li>
-  <li>[Aug 2024] Our team ranked the 3rd place out of 100+ participating teams in the <a href="https://aisingapore.org/global-challenge-for-safe-and-secure-llms/">Global Challenge for Safe and Secure LLMs</a> Track 1A, organised by AI Singapore and the CyberSG Research and Development Programme Office (CRPO).</li>
+  <li>[Dec 2024] Our paper on Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval has been accepted for publication by the AAAI Conference on Artificial Intelligence 2025.</li>  
   <li>[Aug 2024] Our project on Cyber Sentinel: A Unified Framework for Safeguarding Foundation Models has been awarded the <a href="https://www.ntu.edu.sg/crpo/crpo-verticals/grant-management/grand-challenge">CyberSG Research and Development Programme Office (CRPO) Grand Challenge</a> Funding.</li>
   <li>[Aug 2024] Our paper on Continuous Disentangled Joint Space Learning for Domain Generalization has been accepted for publication by the IEEE Transactions on Neural Networks and Learning Systems.</li>
   <li>[May 2024] Our team won the 1st Prize in the <a href="https://repss-w.github.io/">IJCAI Vision-based Remote Physiological Signal Sensing Challenge</a>.</li>
