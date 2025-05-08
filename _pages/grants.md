@@ -8,7 +8,7 @@ nav_order: 4
 ---
 <li>
 <b>Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1b)</b><br>
-<a href="https://connect.aisingapore.org/2023/07/s20m-research-funding-to-address-challenges-related-to-the-increasing-use-of-ai-in-emerging-applications/">AI Singapore Robust AI Grand Challenge</a>. 2025 - 2026. Co-Principal Investigator.
+<a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a>. 2025 - 2026. Co-Principal Investigator.
 </li><br>
 <li>
 <b>Advanced Optical Metrology for Asian Skin Health and Diseases (OPTIMAS)</b><br>
