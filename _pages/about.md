@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 
 <ul align="justify">
 <li>[May 2025] 🏆 Our team won the 3rd Prize in the <a href="https://aisingapore.org/global-challenge-for-safe-and-secure-llms/">Global Challenge for Safe and Secure LLMs</a> (Track 2: Defence).</li>
-<li>[May 2025] Our project on Development of Stable, Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1b) has been awarded the AI Singapore <a href="https://connect.aisingapore.org/2023/07/s20m-research-funding-to-address-challenges-related-to-the-increasing-use-of-ai-in-emerging-applications/">Robust AI Grand Challenge</a> grant funding.</li>
+<li>[May 2025] Our project on Development of Stable, Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1b) has been awarded the <a href="https://connect.aisingapore.org/2023/07/s20m-research-funding-to-address-challenges-related-to-the-increasing-use-of-ai-in-emerging-applications/">AI Singapore Robust AI Grand Challenge</a> grant funding.</li>
 <li>[Apr 2025] Our project on Advanced Optical Metrology for Asian Skin Health and Diseases (OPTIMAS) has been awarded the <a href="https://www.a-star.edu.sg/Research/funding-opportunities/iaf-pp">RIE2025 Human Health and Potential (HHP) Industry Alignment Fund Pre-positioning (IAF-PP)</a> grant funding.</li>
   <li>[Apr 2025] Our paper on A Survey and Evaluation of Adversarial Attacks in Object Detection has been accepted for publication by the IEEE Transactions on Neural Networks and Learning Systems.</li>
   <li>[Feb 2025] Call for candidates: <a href="https://www.findaphd.com/phds/project/uom-a-star-controlled-synthesis-of-virtual-patient-population-with-multimodal-representation-learning/?p182543/">The University of Manchester-A*STAR PhD Programme</a>. Application deadline: 21 March.</li>
@@ -38,7 +38,7 @@ social: false  # includes social icons at the bottom of the page
   <li>[Jan 2024] Our paper on Geometric Correspondence-Based Multimodal Learning for Ophthalmic Image Analysis has been accepted for publication by the IEEE Transactions on Medical Imaging.</li>
   <li>[Jan 2024] Our paper on MedNAS: Multi-scale Training-free Neural Architecture Search for Medical Image Analysis has been accepted for publication by the IEEE Transactions on Evolutionary Computation.</li>
   <li>[Nov 2023] Our paper on Deep Supervised Multi-View Learning with Graph Priors has been accepted for publication by the IEEE Transactions on Image Processing.</li>
-  <li>[Jul 2023] Our project on <a href="https://aisingapore.org/development-of-stable-robust-and-secure-intelligent-systems-for-autonomous-vehicles">Development of Stable, Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1a)</a> has been awarded the AI Singapore <a href="https://connect.aisingapore.org/2023/07/s20m-research-funding-to-address-challenges-related-to-the-increasing-use-of-ai-in-emerging-applications/">Robust AI Grand Challenge</a> grant funding.</li>
+  <li>[Jul 2023] Our project on <a href="https://aisingapore.org/development-of-stable-robust-and-secure-intelligent-systems-for-autonomous-vehicles">Development of Stable, Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1a)</a> has been awarded the <a href="https://connect.aisingapore.org/2023/07/s20m-research-funding-to-address-challenges-related-to-the-increasing-use-of-ai-in-emerging-applications/">AI Singapore Robust AI Grand Challenge</a> grant funding.</li>
 </ul>
 
 <center>
