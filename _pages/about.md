@@ -33,7 +33,7 @@ social: false  # includes social icons at the bottom of the page
   <li>[Dec 2024] Our paper on Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval has been accepted for publication by the AAAI Conference on Artificial Intelligence 2025.</li>  
   <li>[Aug 2024] Our project on Cyber Sentinel: A Unified Framework for Safeguarding Foundation Models has been awarded the <a href="https://www.ntu.edu.sg/crpo/crpo-verticals/grant-management/grand-challenge">CyberSG Research and Development Programme Office (CRPO) Grand Challenge</a> grant funding.</li>
   <li>[Aug 2024] Our paper on Continuous Disentangled Joint Space Learning for Domain Generalization has been accepted for publication by the IEEE Transactions on Neural Networks and Learning Systems.</li>
-  <li>[May 2024] 🏆 Our team received the 1st Prize in the <a href="https://repss-w.github.io/">IJCAI Vision-based Remote Physiological Signal Sensing Challenge</a>.</li>
+  <li>[May 2024] 🏆 Our team won the 1st Prize in the <a href="https://repss-w.github.io/">IJCAI Vision-based Remote Physiological Signal Sensing Challenge</a>.</li>
   <li>[Mar 2024] Our paper on Generative Image Reconstruction from Gradients has been accepted by the IEEE Transactions on Neural Networks and Learning Systems.</li>
   <li>[Jan 2024] Our paper on Geometric Correspondence-Based Multimodal Learning for Ophthalmic Image Analysis has been accepted for publication by the IEEE Transactions on Medical Imaging.</li>
   <li>[Jan 2024] Our paper on MedNAS: Multi-scale Training-free Neural Architecture Search for Medical Image Analysis has been accepted for publication by the IEEE Transactions on Evolutionary Computation.</li>
