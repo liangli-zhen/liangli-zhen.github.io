@@ -8,7 +8,7 @@ nav_order: 4
 ---
 <li>
 <b>Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1b)</b><br>
-AI Singapore <a href="https://connect.aisingapore.org/2023/07/s20m-research-funding-to-address-challenges-related-to-the-increasing-use-of-ai-in-emerging-applications/">Robust AI Grand Challenge</a>. 2025 - 2026. Co-Principal Investigator.
+<a href="https://connect.aisingapore.org/2023/07/s20m-research-funding-to-address-challenges-related-to-the-increasing-use-of-ai-in-emerging-applications/">AI Singapore Robust AI Grand Challenge</a>. 2025 - 2026. Co-Principal Investigator.
 </li><br>
 <li>
 <b>Advanced Optical Metrology for Asian Skin Health and Diseases (OPTIMAS)</b><br>
@@ -22,7 +22,7 @@ A*STAR Team Technical Lead.
 </li><br>
 <li>
 <b><a href="https://aisingapore.org/development-of-stable-robust-and-secure-intelligent-systems-for-autonomous-vehicles/#:~:text=This%20project%20will%20harness%20the,adversarial%20attacks%20in%20complex%20environments.">Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1a)</a></b><br>
-AI Singapore <a href="https://connect.aisingapore.org/2023/07/s20m-research-funding-to-address-challenges-related-to-the-increasing-use-of-ai-in-emerging-applications/">Robust AI Grand Challenge</a>. 2023 - 2025. Co-Principal Investigator.
+<a href="https://connect.aisingapore.org/2023/07/s20m-research-funding-to-address-challenges-related-to-the-increasing-use-of-ai-in-emerging-applications/">AI Singapore Robust AI Grand Challenge</a>. 2023 - 2025. Co-Principal Investigator.
 </li><br>
 <li>  
 <b>Assessment of Robustness of Computer Vision Models</b><br>
