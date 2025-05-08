@@ -12,7 +12,7 @@ AI Singapore <a href="https://connect.aisingapore.org/2023/07/s20m-research-fund
 </li><br>
 <li>
 <b>Advanced Optical Metrology for Asian Skin Health and Diseases (OPTIMAS)</b><br>
-RIE2025 Human Health and Potential (HHP) Industry Alignment Fund Pre-positioning (IAF-PP). 2025 - 2029.<br>
+<a href="https://www.a-star.edu.sg/Research/funding-opportunities/iaf-pp">RIE2025 Human Health and Potential (HHP) Industry Alignment Fund Pre-positioning (IAF-PP)</a>. 2025 - 2029.<br>
 Co-Investigator and IHPC Team Technical Lead.
 </li><br>
 <li>
