@@ -41,10 +41,6 @@ Industry Collaboration Project. 2022 - 2024. Principal Investigator.
 RIE2020 Advanced Manufacturing and Engineering (AME) Programmatic Grant. 2021 - 2024. Co-Investigator.
 </li><br>
 <li>
-<b>A Secure and Privacy Preserving AI Platform for Digital Health</b><br>
-A*STAR Central Research Funds. 2021 - 2024. Co-Principal Investigator.
-</li><br>
-<li>
 <b>Communication-Efficient Federated Learning</b><br>
 Industry Collaboration Project. 2021 - 2022. Principal Investigator.
 </li><br>
