@@ -8,6 +8,7 @@
   preview={SEAA.png}
 }
 
+
 @article{Sotthiwat2025generative,
   title={Generative image reconstruction from gradients},
   author={Ekanut Sotthiwat and Liangli Zhen* and Chi Zhang and Zengxiang Li and Rick Goh},
@@ -16,6 +17,17 @@
   abstract = {In this paper, we propose a method, Generative Image Reconstruction from Gradients (GIRG), for recovering training images from gradients in a federated learning setting, where privacy is preserved by sharing model weights and gradients rather than raw training data. Previous studies have shown the potential for revealing clients' private information or even pixel-level recovery of training images from shared gradients. However, existing methods are limited to low-resolution images and small batch sizes or require prior knowledge about the client data. GIRG utilizes a conditional generative model to reconstruct training images and their corresponding labels from the shared gradients. Unlike previous generative model-based methods, GIRG does not require prior knowledge of the training data. Furthermore, GIRG optimizes the weights of the conditional generative model to generate highly accurate ``dummy'' images instead of optimizing the input vectors of the generative model. Comprehensive empirical results show that GIRG is able to recover high-resolution images with large batch sizes and can even recover images from the aggregation of gradients from multiple participants. These results reveal the vulnerability of current federated learning practices and call for immediate efforts to prevent inversion attacks in gradient-sharing-based collaborative training.},
   pdf={GIRG.pdf},
   preview={GIRG.png}
+}
+
+@article{Wu2025Lo,
+  title={Low-resolution self-attention for semantic segmentation},
+  author={Yu-Huan Wu and Shi-Chen Zhang and Yun Liu and Le Zhang and Xin Zhan and Daquan Zhou and Jiashi Feng and Ming-Ming Cheng and Liangli Zhen},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  pdf={https://arxiv.org/abs/2310.05026},
+  code={https://github.com/yuhuan-wu/LRFormer},
+  abstract = {Semantic segmentation tasks naturally require high-resolution information for pixel-wise segmentation and global context information for class prediction. While existing vision transformers demonstrate promising performance, they often utilize high-resolution context modeling, resulting in a computational bottleneck. In this work, we challenge conventional wisdom and introduce the Low-Resolution Self-Attention (LRSA) mechanism to capture global context at a significantly reduced computational cost, \ie, FLOPs. Our approach involves computing self-attention in a fixed low-resolution space, regardless of the input image's resolution, with additional 3x3 depth-wise convolutions to capture fine details in the high-resolution space. We demonstrate the effectiveness of our LRSA approach by building the LRFormer, a vision transformer with an encoder-decoder structure. Extensive experiments on the ADE20K, COCO-Stuff, and Cityscapes datasets demonstrate that LRFormer outperforms state-of-the-art models.},
+  preview={LRFormer.png}
 }
 
 @article{Li2025DECH,
