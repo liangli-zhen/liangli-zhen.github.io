@@ -481,21 +481,20 @@
   abstract={In multiobjective optimisation, a set of scalable test problems with a variety of features allow researchers to investigate and evaluate the abilities of different optimisation algorithms, and thus can help them to design and develop more effective and efficient approaches. Existing test problem suites mainly focus on situations where all the objectives are fully conflicting with each other. In such cases, an m-objective optimisation problem has an (m-1)-dimensional Pareto front in the objective space. However, in some optimisation problems, there may be unexpected characteristics among objectives, e.g., redundancy. The redundancy of some objectives can lead to the multiobjective problem having a degenerate Pareto front, i.e., the dimension of the Pareto front of the m-objective problem be less than (m-1). In this paper, we systematically study degenerate multiobjective problems. We abstract three general characteristics of degenerate problems, which are not formulated and systematically investigated in the literature. Based on these characteristics, we present a set of test problems to support the investigation of multiobjective optimisation algorithms under situations with redundant objectives. To the best of our knowledge, this work is the first one that explicitly formulates these three characteristics of degenerate problems, thus allowing the resulting test problems to be featured by their generality, in contrast to existing test problems designed for specific purposes (e.g., visualisation).},
 }
 
-@article{zhen2017underdetermined,
-  title={Underdetermined blind source separation using sparse coding},
-  author={Zhen, Liangli and Peng, Dezhong and Yi, Zhang and Xiang, Yong and Chen, Peng},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  abbr={IEEE TNNLS},
-  volume={28},
-  number={12},
-  pages={3102--3108},
+
+@inproceedings{zhen2017adjusting,
+  title={Adjusting parallel coordinates for investigating multi-objective search},
+  author={Zhen, Liangli and Li, Miqing and Cheng, Ran and Peng, Dezhong and Yao, Xin},
+  booktitle={SEAL},
+  abbr={SEAL},
+  pages={224--235},
   year={2017},
-  publisher={IEEE},
-  preview={TNNLS17_Under.png},
-  pdf={TNNLS2017_Underdetermined_blind_source_separation_using_sparse_coding.pdf},
-  code={https://liangli-zhen.github.io/assets/code/UBSS-SC.zip},
-  abstract={In an underdetermined mixture system with n unknown sources, it is a challenging task to separate these sources from their m observed mixture signals, where m . n. By exploiting the technique of sparse coding, we propose an effective approach to discover some 1-D subspaces from the set consisting of all the time-frequency (TF) representation vectors of observed mixture signals. We show that these 1-D subspaces are associated with TF points where only single source possesses dominant energy. By grouping the vectors in these subspaces via hierarchical clustering algorithm, we obtain the estimation of the mixing matrix. Finally, the source signals could be recovered by solving a series of least squares problems. Since the sparse coding strategy considers the linear representation relations among all the TF representation vectors of mixing signals, the proposed algorithm can provide an accurate estimation of the mixing matrix and is robust to the noises compared with the existing underdetermined blind source separation approaches. Theoretical analysis and experimental results demonstrate the effectiveness of the proposed method.},
+  pdf={APC.pdf},
+  preview={SEAL17_adapt.png},
+  code={https://liangli-zhen.github.io/assets/code/APC-code.zip},
+  abstract={Visualizing a high-dimensional solution set over the evolution process is a viable way to investigate the search behavior of evolutionary multi-objective optimization. The parallel coordinates plot which scales well to the data dimensionality is frequently used to observe solution sets in multi-objective optimization. However, the solution sets in parallel coordinates are typically presented by the natural order of the optimized objectives, with rare information of the relation between these objectives and also the Pareto dominance relation between solutions. In this paper, we attempt to adjust parallel coordinates to incorporate this information. Systematic experiments have shown the effectiveness of the proposed method.},
 }
+
 
 @article{li2017read,
   title={How to read many-objective solution sets in parallel coordinates},
@@ -512,15 +511,19 @@
   abstract={Rapid development of evolutionary algor ithms in handling many-objective optimization problems requires viable methods of visualizing a high-dimensional solution set. The parallel coordinates plot which scales well to high-dimensional data is such a method, and has been frequently used in evolutionary many-objective optimization. However, the parallel coordinates plot is not as straightforward as the classic scatter plot to present the information contained in a solution set. In this paper, we make some observations of the parallel coordinates plot, in terms of comparing the quality of solution sets, understanding the shape and distribution of a solution set, and reflecting the relation between objectives. We hope that these observations could provide some guidelines as to the proper use of the parallel coordinates plot in evolutionary manyobjective optimization.},
 }
 
-@inproceedings{zhen2017adjusting,
-  title={Adjusting parallel coordinates for investigating multi-objective search},
-  author={Zhen, Liangli and Li, Miqing and Cheng, Ran and Peng, Dezhong and Yao, Xin},
-  booktitle={SEAL},
-  abbr={SEAL},
-  pages={224--235},
+
+@article{zhen2017underdetermined,
+  title={Underdetermined blind source separation using sparse coding},
+  author={Zhen, Liangli and Peng, Dezhong and Yi, Zhang and Xiang, Yong and Chen, Peng},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  abbr={IEEE TNNLS},
+  volume={28},
+  number={12},
+  pages={3102--3108},
   year={2017},
-  pdf={APC.pdf},
-  preview={SEAL17_adapt.png},
-  code={https://liangli-zhen.github.io/assets/code/APC-code.zip},
-  abstract={Visualizing a high-dimensional solution set over the evolution process is a viable way to investigate the search behavior of evolutionary multi-objective optimization. The parallel coordinates plot which scales well to the data dimensionality is frequently used to observe solution sets in multi-objective optimization. However, the solution sets in parallel coordinates are typically presented by the natural order of the optimized objectives, with rare information of the relation between these objectives and also the Pareto dominance relation between solutions. In this paper, we attempt to adjust parallel coordinates to incorporate this information. Systematic experiments have shown the effectiveness of the proposed method.},
+  publisher={IEEE},
+  preview={TNNLS17_Under.png},
+  pdf={TNNLS2017_Underdetermined_blind_source_separation_using_sparse_coding.pdf},
+  code={https://liangli-zhen.github.io/assets/code/UBSS-SC.zip},
+  abstract={In an underdetermined mixture system with n unknown sources, it is a challenging task to separate these sources from their m observed mixture signals, where m . n. By exploiting the technique of sparse coding, we propose an effective approach to discover some 1-D subspaces from the set consisting of all the time-frequency (TF) representation vectors of observed mixture signals. We show that these 1-D subspaces are associated with TF points where only single source possesses dominant energy. By grouping the vectors in these subspaces via hierarchical clustering algorithm, we obtain the estimation of the mixing matrix. Finally, the source signals could be recovered by solving a series of least squares problems. Since the sparse coding strategy considers the linear representation relations among all the TF representation vectors of mixing signals, the proposed algorithm can provide an accurate estimation of the mixing matrix and is robust to the noises compared with the existing underdetermined blind source separation approaches. Theoretical analysis and experimental results demonstrate the effectiveness of the proposed method.},
 }
