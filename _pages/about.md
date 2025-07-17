@@ -36,7 +36,7 @@ social: false  # includes social icons at the bottom of the page
   <li>[May 2024] 🏆 Our team won the 1st Prize in the <a href="https://repss-w.github.io/">IJCAI Vision-based Remote Physiological Signal Sensing Challenge</a>.</li>
   <li>[Mar 2024] Our paper on Generative Image Reconstruction from Gradients has been accepted by the IEEE Transactions on Neural Networks and Learning Systems.</li>
   <li>[Jan 2024] Our paper on Geometric Correspondence-Based Multimodal Learning for Ophthalmic Image Analysis has been accepted for publication by the IEEE Transactions on Medical Imaging.</li>
-  <li>[Jan 2024] Our paper on MedNAS: Multi-scale Training-free Neural Architecture Search for Medical Image Analysis has been accepted for publication by the IEEE Transactions on Evolutionary Computation.</li>
+  <li>[Jan 2024] Our paper on MedNAS: Multiscale Training-Free Neural Architecture Search for Medical Image Analysis has been accepted for publication by the IEEE Transactions on Evolutionary Computation.</li>
   <li>[Nov 2023] Our paper on Deep Supervised Multi-View Learning with Graph Priors has been accepted for publication by the IEEE Transactions on Image Processing.</li>
   <li>[Jul 2023] Our project on <a href="https://aisingapore.org/development-of-stable-robust-and-secure-intelligent-systems-for-autonomous-vehicles">Development of Stable, Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1a)</a> has been awarded the <a href="https://connect.aisingapore.org/2023/07/s20m-research-funding-to-address-challenges-related-to-the-increasing-use-of-ai-in-emerging-applications/">AI Singapore Robust AI Grand Challenge</a> grant funding.</li>
 </ul>
