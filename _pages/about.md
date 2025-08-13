@@ -25,6 +25,8 @@ social: false  # includes social icons at the bottom of the page
 <Strong>News</strong>
 
 <ul align="justify">
+<li>[Aug 2025] We currently have openings for interns and visiting PhD students at A*STAR.</li> 
+<li>[Jun 2025] Our paper on Low-Resolution Self-Attention for Semantic Segmentation has been accepted for publication by the IEEE Transactions on Pattern Analysis and Machine Intelligence.</li> 
 <li>[May 2025] 🏆 Our team received the 3rd Prize in the <a href="https://aisingapore.org/global-challenge-for-safe-and-secure-llms/">Global Challenge for Safe and Secure LLMs</a> (Track 2: Defence).</li>
 <li>[May 2025] Our project on Development of Stable, Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1b) has been awarded the <a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a> grant funding.</li>
 <li>[Apr 2025] Our project on Advanced Optical Metrology for Asian Skin Health and Diseases (OPTIMAS) has been awarded the <a href="https://www.a-star.edu.sg/Research/funding-opportunities/iaf-pp">RIE2025 Industry Alignment Fund Pre-positioning (IAF-PP)</a> grant funding.</li>
