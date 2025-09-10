@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /grants/
-title: grants
+permalink: /projet/
+title: project
 description: I acknowledge the funding support for our research from the following grants and projects
 nav: true
 nav_order: 4
