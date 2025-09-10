@@ -4,7 +4,7 @@ permalink: /projet/
 title: project
 description: I acknowledge the funding support for our research from the following grants and projects
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 <li>
 <b>Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1b)</b><br>
