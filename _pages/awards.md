@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards/
-title: awards
+permalink: /award/
+title: award
 description: I am honoured to be given the following awards and scholarships
 nav: true
 nav_order: 6
