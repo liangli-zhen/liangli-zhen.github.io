@@ -1,7 +1,7 @@
 ---
 layout: page
-title: services
-permalink: /services/
+title: service
+permalink: /service/
 description: I am involved in the following professional activities and leadership
 nav: true
 nav_order: 5
