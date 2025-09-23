@@ -1,11 +1,11 @@
-@article{Jia2024Global,
-  title={Cross-modal obfuscation for jailbreak attacks on large vision-language models},
-  author={Lei Jiang and Zixun Zhang and Zizhou Wang and Xiaobing Sun and Zhen Li and Liangli Zhen* and Xiaohua Xu*},
-  journal={arXiv preprint arXiv:2506.16760},
+@article{wang2025continu,
+  title={Continuous disentangled joint space learning for domain generalization},
+  author={Zizhou Wang and Yan Wang and Yangqin Feng and Jiawei Du and Yong Liu and Rick Siow Mong Goh and Liangli Zhen*},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2025},
-  abstract = {Large Vision-Language Models (LVLMs) demonstrate exceptional performance across multimodal tasks, yet remain vulnerable to jailbreak attacks that bypass built-in safety mechanisms to elicit restricted content generation. Existing black-box jailbreak methods primarily rely on adversarial textual prompts or image perturbations, yet these approaches are highly detectable by standard content filtering systems and exhibit low query and computational efficiency. In this work, we present Cross-modal Adversarial Multimodal Obfuscation (CAMO), a novel black-box jailbreak attack framework that decomposes malicious prompts into semantically benign visual and textual fragments. By leveraging LVLMs' cross-modal reasoning abilities, CAMO covertly reconstructs harmful instructions through multi-step reasoning, evading conventional detection mechanisms. Our approach supports adjustable reasoning complexity and requires significantly fewer queries than prior attacks, enabling both stealth and efficiency. Comprehensive evaluations conducted on leading LVLMs validate CAMO's effectiveness, showcasing robust performance and strong cross-model transferability. These results underscore significant vulnerabilities in current built-in safety mechanisms, emphasizing an urgent need for advanced, alignment-aware security and safety solutions in vision-language systems.},
-  pdf={https://www.arxiv.org/pdf/2506.16760.pdf},
-  preview={CAMO.png}
+  abstract = {Domain generalization aims to learn a model on one or multiple observed source domains that can generalize to unseen target test domains. Previous approaches have focused on extracting domain-invariant information from multiple source domains, but domain-specific information is also closely tied to semantics in individual domains and is not well-suited for generalization to the target domain. In this paper, we propose a novel domain generalization method called Continuous Disentangled Joint Space Learning (CJSL), which leverages both domain-invariant and domain-specific information for more effective domain generalization. The key idea behind CJSL is to formulate and learn a continuous joint space for domain-specific representations from source domains through iterative feature disentanglement. This learned continuous joint space can then be used to simulate domain-specific representations for test samples from a mixture of multiple domains via Monte Carlo sampling during the inference stage. Unlike existing approaches, which exploit domain-invariant feature vectors only or aim to learn a universal domain-specific feature extractor, we simulate domain-specific representations via sampling the latent vectors in the learned continuous joint space for the test sample to fully utilize the power of multiple domain-specific classifiers for the robust prediction. Empirical results demonstrate that CJSL outperforms 19 state-of-the-art methods on seven benchmarks, indicating the effectiveness of our proposed method.},
+  pdf={TNNLS_CJSL.pdf},
+  preview={DG_TNNLS.png}
 }
 
 @article{Khoi2025,
@@ -18,15 +18,7 @@
   preview={SEAA.png}
 }
 
-@article{wang2024continu,
-  title={Continuous disentangled joint space learning for domain generalization},
-  author={Zizhou Wang and Yan Wang and Yangqin Feng and Jiawei Du and Yong Liu and Rick Siow Mong Goh and Liangli Zhen*},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2025},
-  abstract = {Domain generalization aims to learn a model on one or multiple observed source domains that can generalize to unseen target test domains. Previous approaches have focused on extracting domain-invariant information from multiple source domains, but domain-specific information is also closely tied to semantics in individual domains and is not well-suited for generalization to the target domain. In this paper, we propose a novel domain generalization method called Continuous Disentangled Joint Space Learning (CJSL), which leverages both domain-invariant and domain-specific information for more effective domain generalization. The key idea behind CJSL is to formulate and learn a continuous joint space for domain-specific representations from source domains through iterative feature disentanglement. This learned continuous joint space can then be used to simulate domain-specific representations for test samples from a mixture of multiple domains via Monte Carlo sampling during the inference stage. Unlike existing approaches, which exploit domain-invariant feature vectors only or aim to learn a universal domain-specific feature extractor, we simulate domain-specific representations via sampling the latent vectors in the learned continuous joint space for the test sample to fully utilize the power of multiple domain-specific classifiers for the robust prediction. Empirical results demonstrate that CJSL outperforms 19 state-of-the-art methods on seven benchmarks, indicating the effectiveness of our proposed method.},
-  pdf={TNNLS_CJSL.pdf},
-  preview={DG_TNNLS.png}
-}
+
 
 @article{Sotthiwat2025generative,
   title={Generative image reconstruction from gradients},
