@@ -8,6 +8,17 @@
   preview={PFO2025.png}
 }
 
+
+@article{wang2025continu,
+  title={Continuous disentangled joint space learning for domain generalization},
+  author={Zizhou Wang and Yan Wang and Yangqin Feng and Jiawei Du and Yong Liu and Rick Siow Mong Goh and Liangli Zhen*},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2025},
+  abstract = {Domain generalization aims to learn a model on one or multiple observed source domains that can generalize to unseen target test domains. Previous approaches have focused on extracting domain-invariant information from multiple source domains, but domain-specific information is also closely tied to semantics in individual domains and is not well-suited for generalization to the target domain. In this paper, we propose a novel domain generalization method called Continuous Disentangled Joint Space Learning (CJSL), which leverages both domain-invariant and domain-specific information for more effective domain generalization. The key idea behind CJSL is to formulate and learn a continuous joint space for domain-specific representations from source domains through iterative feature disentanglement. This learned continuous joint space can then be used to simulate domain-specific representations for test samples from a mixture of multiple domains via Monte Carlo sampling during the inference stage. Unlike existing approaches, which exploit domain-invariant feature vectors only or aim to learn a universal domain-specific feature extractor, we simulate domain-specific representations via sampling the latent vectors in the learned continuous joint space for the test sample to fully utilize the power of multiple domain-specific classifiers for the robust prediction. Empirical results demonstrate that CJSL outperforms 19 state-of-the-art methods on seven benchmarks, indicating the effectiveness of our proposed method.},
+  pdf={TNNLS_CJSL.pdf},
+  preview={DG_TNNLS.png}
+}
+
 @article{Wu2025Gapnet,
   title={GAPNet: A lightweight framework for image and video salient object detection via granularity-aware paradigm},
   author={Yu-Huan Wu and Wei Liu* and Zi-Xuan Zhu and Zizhou Wang and Yong Liu and Liangli Zhen*},
@@ -18,16 +29,6 @@ coarse object locations for high-level outputs and fine-grained object boundarie
 On top of the encoder, a self-attention module is built to learn global information, enabling accurate object localization with negligible computational cost. Unlike traditional U-Net-based approaches, our proposed method optimizes feature utilization and semantic interpretation while applying appropriate supervision at each processing stage. Extensive experiments show that the proposed method achieves a new \sArt performance among lightweight image and video SOD models.},
   pdf={GAPNet2025.pdf},
   preview={GAPNet.png}
-}
-
-@article{wang2025continu,
-  title={Continuous disentangled joint space learning for domain generalization},
-  author={Zizhou Wang and Yan Wang and Yangqin Feng and Jiawei Du and Yong Liu and Rick Siow Mong Goh and Liangli Zhen*},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2025},
-  abstract = {Domain generalization aims to learn a model on one or multiple observed source domains that can generalize to unseen target test domains. Previous approaches have focused on extracting domain-invariant information from multiple source domains, but domain-specific information is also closely tied to semantics in individual domains and is not well-suited for generalization to the target domain. In this paper, we propose a novel domain generalization method called Continuous Disentangled Joint Space Learning (CJSL), which leverages both domain-invariant and domain-specific information for more effective domain generalization. The key idea behind CJSL is to formulate and learn a continuous joint space for domain-specific representations from source domains through iterative feature disentanglement. This learned continuous joint space can then be used to simulate domain-specific representations for test samples from a mixture of multiple domains via Monte Carlo sampling during the inference stage. Unlike existing approaches, which exploit domain-invariant feature vectors only or aim to learn a universal domain-specific feature extractor, we simulate domain-specific representations via sampling the latent vectors in the learned continuous joint space for the test sample to fully utilize the power of multiple domain-specific classifiers for the robust prediction. Empirical results demonstrate that CJSL outperforms 19 state-of-the-art methods on seven benchmarks, indicating the effectiveness of our proposed method.},
-  pdf={TNNLS_CJSL.pdf},
-  preview={DG_TNNLS.png}
 }
 
 @article{Khoi2025,
