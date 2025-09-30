@@ -25,7 +25,9 @@ social: false  # includes social icons at the bottom of the page
 <Strong>News</strong>
 
 <ul align="justify">
-<li>[Aug 2025] We currently have openings for interns and visiting PhD students at A*STAR.</li> 
+<li>[Sept 2025] We currently have openings for interns and visiting PhD students at A*STAR.</li> 
+<li>[Sept 2025] Our paper on Single-Domain Generalization via Path Flatness-Aware Optimization of Loss Landscapes has been accepted for publication by the IEEE Transactions on Neural Networks and Learning Systems.</li>
+<li>[Aug 2025] Our paper on GAPNet: A Lightweight Framework for Image and Video Salient Object Detection via Granularity-Aware Paradigm has been accepted for publication by Machine Intelligence Research.</li>
 <li>[Jun 2025] Our paper on Low-Resolution Self-Attention for Semantic Segmentation has been accepted for publication by the IEEE Transactions on Pattern Analysis and Machine Intelligence.</li> 
 <li>[May 2025] 🏆 Our team received the 3rd Prize in the <a href="https://aisingapore.org/global-challenge-for-safe-and-secure-llms/">Global Challenge for Safe and Secure LLMs</a> (Track 2: Defence).</li>
 <li>[May 2025] Our project on Development of Stable, Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1b) has been awarded the <a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a> grant funding.</li>
