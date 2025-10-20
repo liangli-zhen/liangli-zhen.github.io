@@ -20,9 +20,11 @@ Our work in machine learning includes safe & robust learning, multimodal learnin
 
 <i>Safe and robust machine learning</i>
 <ul>
+<li>[<a href="https://liangli-zhen.github.io/assets/pdf/PFO2025.pdf">TNNLS25</a>] A domain generalisation method from the optimisation perspective (path flateness of loss landspaces)</li>
+<li>[<a href="https://liangli-zhen.github.io/assets/pdf/TNNLS_CJSL.pdf">TNNLS25</a>] A domain generalisation method from the learning perspective (feature disentanglement)</li>
+<li>[<a href="https://liangli-zhen.github.io/assets/pdf/TNNLS2025_SEAA.pdf">TNNLS25</a>] A survey and evaluation of adversarial attacks in object detection</li>
 <li>[<a href="https://liangli-zhen.github.io/assets/pdf/GIRG.pdf">TNNLS25</a>] A generative gradient inversion attack method</li>
-<li>[AAAI25] A trustworthy learning method for cross-modal hashing</li>
-<li>[<a href="https://liangli-zhen.github.io/assets/pdf/TNNLS_CJSL.pdf">TNNLS24</a>] A domain generalisation method with continuous disentangled joint space learning</li>
+<li>[<a href="https://liangli-zhen.github.io/assets/pdf/AAAI25_DECH.pdf">AAAI25</a>] A trustworthy learning method for cross-modal hashing</li>
 <li>[<a href="https://liangli-zhen.github.io/assets/pdf/aisg_safe_secure_llms.pdf">arXiv24</a>]Technical report on the Global challenge for safe and secure LLMs track 1</li>
 <li>[<a href="https://liangli-zhen.github.io/assets/pdf/ICCV2023_GGI.pdf">ICCV23</a>] A gradient inversion attack method in federated learning</li>
 <li>[<a href="https://liangli-zhen.github.io/assets/pdf/MedIA2022_CDACM.pdf">MedIA23</a>] A domain adaptation method for medical image analysis</li>
