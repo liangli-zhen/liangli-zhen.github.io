@@ -73,6 +73,15 @@ On top of the encoder, a self-attention module is built to learn global informat
   preview={GAPNet.png}
 }
 
+@article{xue2025neural,
+  title={Neural architecture search with progressive evaluation and sub-population preservation},
+  author={Yu Xue and Jiajie Zha and Danilo Pelusi and Peng Chen and Tao Luo and Liangli Zhen and Yan Wang and Mohamed Wahib},
+  journal={IEEE Transactions on Evolutionary Computation},
+  year={2025},
+  abstract = {Neural architecture search (NAS) is an effective approach for automating the design of deep neural networks. Evolutionary computation (EC) is commonly used in NAS due to its global optimization capability. However, the evaluation phase of architecture candidates in EC-based NAS is compute-intensive, limiting its application for many real-world problems. To overcome this challenge, we propose a novel progressive evaluation strategy for the evaluation phase in convolutional neural network architecture search, in which the number of training epochs of network individuals is progressively increased. In addition, a sub-population preservation strategy is proposed to preserve medium and large models to avoid prematurely discarding networks that may not perform well in the early stages but have the potential to excel with further optimization. Our proposed algorithm reduces the computational cost of the evaluation phase and promotes population diversity and fairness by preserving promising networks based on their distribution. We evaluate the proposed progressive evaluation and sub-population preservation of neural architecture search (PEPNAS) algorithm on the CIFAR10, CIFAR100, and ImageNet benchmark datasets, and compare it with 36 state-of-the-art algorithms, including manually designed networks, reinforcement learning (RL) algorithms, gradient-based algorithms, and other EC-based ones. The experimental results demonstrate that PEPNAS effectively identifies networks with competitive accuracy while also markedly improving the efficiency of the search process. For instance, PEPNAS discovers the architecture on CIFAR10 with a low error rate of 2.38\% using only 0.7 GPU days. We directly adopt the searched architecture for the image classification on the CIFAR100 and ImageNet datasets, which achieves the top 1 error rates of 16.46\% and 26.25\%, respectively.},
+ preview={PEPNAS.png}
+}
+
 
 @article{wang2024gecom,
   title={Geometric correspondence-based multimodal learning for ophthalmic image analysis},
@@ -105,14 +114,7 @@ On top of the encoder, a self-attention module is built to learn global informat
   preview={MedNAS.png}
 }
 
-@article{xue2024neural,
-  title={Neural architecture search with progressive evaluation and sub-population preservation},
-  author={Yu Xue and Jiajie Zha and Danilo Pelusi and Peng Chen and Tao Luo and Liangli Zhen and Yan Wang and Mohamed Wahib},
-  journal={IEEE Transactions on Evolutionary Computation},
-  year={2024},
-  abstract = {Neural architecture search (NAS) is an effective approach for automating the design of deep neural networks. Evolutionary computation (EC) is commonly used in NAS due to its global optimization capability. However, the evaluation phase of architecture candidates in EC-based NAS is compute-intensive, limiting its application for many real-world problems. To overcome this challenge, we propose a novel progressive evaluation strategy for the evaluation phase in convolutional neural network architecture search, in which the number of training epochs of network individuals is progressively increased. In addition, a sub-population preservation strategy is proposed to preserve medium and large models to avoid prematurely discarding networks that may not perform well in the early stages but have the potential to excel with further optimization. Our proposed algorithm reduces the computational cost of the evaluation phase and promotes population diversity and fairness by preserving promising networks based on their distribution. We evaluate the proposed progressive evaluation and sub-population preservation of neural architecture search (PEPNAS) algorithm on the CIFAR10, CIFAR100, and ImageNet benchmark datasets, and compare it with 36 state-of-the-art algorithms, including manually designed networks, reinforcement learning (RL) algorithms, gradient-based algorithms, and other EC-based ones. The experimental results demonstrate that PEPNAS effectively identifies networks with competitive accuracy while also markedly improving the efficiency of the search process. For instance, PEPNAS discovers the architecture on CIFAR10 with a low error rate of 2.38\% using only 0.7 GPU days. We directly adopt the searched architecture for the image classification on the CIFAR100 and ImageNet datasets, which achieves the top 1 error rates of 16.46\% and 26.25\%, respectively.},
- preview={PEPNAS.png}
-}
+
 
 @article{Xue2024evolutionary,
   title={Evolutionary architecture search for generative adversarial networks based on weight sharing},
