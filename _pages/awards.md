@@ -11,5 +11,5 @@ nav_order: 6
 <li>1st Prize in the IJCAI Vision-based Remote Physiological Signal Sensing Challenge, 2024</li>
 <li>Outstanding Paper Award of Sichuan Province Computer Federation, 2018</li>		
 <li>Best Student Paper Award, International Conference on Simulated Evolution and Learning, 2017</li>
-<li>National Scholarship of China, Ministry of Education of China, 2016, 2014, 2013, 2012 (awarded four times in total)</li>
+<li>National Scholarship of China, Ministry of Education of China, 2016, 2014, 2013, 2012 (awarded 4 times in total)</li>
 </ul>
