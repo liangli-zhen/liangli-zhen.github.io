@@ -7,20 +7,27 @@ nav: true
 nav_order: 3
 ---
 <li>
-<b>Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles</b><br>
-<a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a>. 2023 - 2026. Co-Principal Investigator and A*STAR Team Principal Investigator.
+<b>Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1B) </b><br>
+<a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a>. 2025 - 2026. Co-Principal Investigator and A*STAR Team Principal Investigator.
 </li><br>
 <li>
 <b>Advanced Optical Metrology for Asian Skin Health and Diseases (OPTIMAS)</b><br>
 <a href="https://www.a-star.edu.sg/Research/funding-opportunities/iaf-pp">RIE2025 Human Health and Potential (HHP) Industry Alignment Fund Pre-positioning (IAF-PP)</a>. 2025 - 2029.<br>
 Co-Investigator and IHPC Team Technical Lead.
 </li><br>
+<li>  
+<b>Artificial Intelligence for the Diagnosis of Dermatological Conditions</b><br>
+Industry Collaboration Project. 2025 - 2026. Principal Investigator.
+</li><br>
 <li>
 <b>Cyber Sentinel: A Unified Framework for Safeguarding Foundation Models</b><br>
 <a href="https://www.ntu.edu.sg/crpo/crpo-verticals/grant-management/grand-challenge">CyberSG Research and Development Programme Office (CRPO) Grand Challenge</a>. 2024 - 2027.<br>
 A*STAR Team Technical Lead.
 </li><br>
-
+<li>
+<b>Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1A)</b><br>
+<a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a>. 2023 - 2025. Co-Principal Investigator and A*STAR Team Principal Investigator.
+</li><br>
 <li>  
 <b>Assessment of Robustness of Computer Vision Models</b><br>
 Singapore Aerospace Programme, 2023 - 2025. Principal Investigator.
