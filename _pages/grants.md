@@ -7,8 +7,8 @@ nav: true
 nav_order: 3
 ---
 <li>
-<b>Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1b)</b><br>
-<a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a>. 2025 - 2026. Co-Principal Investigator.
+<b>Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles</b><br>
+<a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a>. 2023 - 2026. Co-Principal Investigator and A*STAR Team Principal Investigator.
 </li><br>
 <li>
 <b>Advanced Optical Metrology for Asian Skin Health and Diseases (OPTIMAS)</b><br>
@@ -20,10 +20,7 @@ Co-Investigator and IHPC Team Technical Lead.
 <a href="https://www.ntu.edu.sg/crpo/crpo-verticals/grant-management/grand-challenge">CyberSG Research and Development Programme Office (CRPO) Grand Challenge</a>. 2024 - 2027.<br>
 A*STAR Team Technical Lead.
 </li><br>
-<li>
-<b><a href="https://aisingapore.org/development-of-stable-robust-and-secure-intelligent-systems-for-autonomous-vehicles/#:~:text=This%20project%20will%20harness%20the,adversarial%20attacks%20in%20complex%20environments.">Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1a)</a></b><br>
-<a href="https://connect.aisingapore.org/2023/07/s20m-research-funding-to-address-challenges-related-to-the-increasing-use-of-ai-in-emerging-applications/">AI Singapore Robust AI Grand Challenge</a>. 2023 - 2025. Co-Principal Investigator.
-</li><br>
+
 <li>  
 <b>Assessment of Robustness of Computer Vision Models</b><br>
 Singapore Aerospace Programme, 2023 - 2025. Principal Investigator.
@@ -38,7 +35,7 @@ Industry Collaboration Project. 2022 - 2024. Principal Investigator.
 </li><br>
 <li>
 <b>MARIO: Multimodal AI-Driven Decision Making for Ophthalmology</b><br>
-RIE2020 Advanced Manufacturing and Engineering (AME) Programmatic Grant. 2021 - 2024. Co-Investigator.
+RIE2020 Advanced Manufacturing and Engineering (AME) Programmatic Grant. 2021 - 2024. Co-Investigator and Lead of Work Package 1 on Medical Multimodal Learning.
 </li><br>
 <li>
 <b>Communication-Efficient Federated Learning</b><br>
