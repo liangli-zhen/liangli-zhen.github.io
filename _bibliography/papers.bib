@@ -19,6 +19,18 @@
   preview={DG_TNNLS.png}
 }
 
+@article{Liao2025Vision,
+  title={Vision-amplified semantic entropy for hallucination detection in medical visual question answering},
+  author={Zehui Liao and Shishuai Hu and Ke Zou and Huazhu Fu and Liangli Zhen* and Yong Xia*},
+  journal={MICCAI},
+  year={2025},
+  abstract = {Multimodal large language models (MLLMs) have demonstrated significant potential in medical Visual Question Answering (VQA). Yet, they remain prone to hallucinations—incorrect responses that contradict input images, posing substantial risks in clinical decision-making. Detecting these hallucinations is essential for establishing trust in MLLMs among clinicians and patients, thereby enabling their real-world adoption. Current hallucination detection methods, especially semantic entropy (SE), have demonstrated promising hallucination detection capacity for LLMs. However, adapting SE to medical MLLMs by incorporating visual perturbations presents a dilemma. Weak perturbations preserve image content and ensure clinical validity, but may be overlooked by medical MLLMs, which tend to over-rely on language priors. In contrast, strong perturbations can distort essential diagnostic features, compromising clinical interpretation. To address this issue, we propose Vision Amplified Semantic Entropy (VASE), which incorporates weak image transformations and amplifies the impact of visual input, to improve hallucination detection in medical VQA. We first estimate the semantic predictive distribution under weak visual transformations to preserve clinical validity, and then amplify visual influence by contrasting this distribution with that derived from a distorted image. The entropy of the resulting distribution is estimated as VASE. Experiments on two medical open-ended VQA datasets demonstrate that VASE consistently outperforms existing hallucination detection methods. The code will be available at https://github.com/Merrical/VASE.},
+  pdf={VASE2025.pdf},
+  code={https://github.com/Merrical/VASE},
+  preview={VASE2025.png}
+}
+
+
 @article{Khoi2025,
   title={A survey and evaluation of adversarial attacks in object detection},
   author={Khoi Nguyen Tiet Nguyen* and Wenyu Zhang* and Kangkang Lu and Yuhuan Wu and Xingjian Zheng and Hui Li Tan and Liangli Zhen*},
