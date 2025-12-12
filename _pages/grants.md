@@ -55,7 +55,7 @@ AI Singapore Technology Challenge. 2022 – 2025. Co-Principal Investigator.
 
 <li>
 <b>MARIO: Multimodal AI-Driven Decision Making for Ophthalmology</b><br>
-RIE2020 Advanced Manufacturing and Engineering (AME) Programmatic Grant. 2021 - 2024. Co-Investigator and Lead of Work Package 1 on Medical Multimodal Learning.
+<a href="https://www.a-star.edu.sg/docs/librariesprovider1/default-document-library/research/funding-opportunities/ame-programmatic-funds/ame-rie2020-programmatic-(updated-2018-06-09)_1.pdf">RIE2020 Advanced Manufacturing and Engineering (AME) Programmatic Fund</a>. 2021 - 2024. Co-Investigator and Lead of Work Package 1 on Medical Multimodal Learning.
 </li><br>
 
 <li>
