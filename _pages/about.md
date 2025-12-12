@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 
 <ul align="justify">
 <li>[Dec 2025] We currently have openings for AI Safety research scientists.</li> 
-<li>[Sept 2025] We have openings for intern, visiting PhD students, and <a href="https://www.a-star.edu.sg/scholarships/home/international-awards/astar-research-attachment-programme-arap">ARAP</a> scholarships at A*STAR.</li> 
+<li>[Sept 2025] We have openings for intern, visiting PhD students (including CSC Scholarship), and <a href="https://www.a-star.edu.sg/scholarships/home/international-awards/astar-research-attachment-programme-arap">ARAP</a> scholarships at A*STAR.</li> 
 <li>[Sept 2025] Our paper on Single-Domain Generalization via Path Flatness-Aware Optimization of Loss Landscapes has been accepted for publication by the IEEE Transactions on Neural Networks and Learning Systems.</li>
 <li>[Aug 2025] Our paper on GAPNet: A Lightweight Framework for Image and Video Salient Object Detection via Granularity-Aware Paradigm has been accepted for publication by Machine Intelligence Research.</li>
 <li>[Jun 2025] Our paper on Low-Resolution Self-Attention for Semantic Segmentation has been accepted for publication by the IEEE Transactions on Pattern Analysis and Machine Intelligence.</li> 
