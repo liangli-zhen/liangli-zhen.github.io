@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 <p align="justify">Welcome to my homepage! I am a group leader and senior scientist at the Institute of High Performance Computing, Agency for Science, Technology and Research (<a href="https://www.a-star.edu.sg/">A*STAR</a>), Singapore. I am also a Senior Member of the IEEE. I lead the AI Safety Research Group focused on enhancing the AI safety and robustness for real-world deployment and application. Prior to joining A*STAR, I received my PhD in Computer Science from Sichuan University, China, supervised by <a href="https://scholar.google.com/citations?user=0gupif8AAAAJ&hl=en">Professor Dezhong Peng</a>. I was a joint PhD student at The University of Birmingham in the UK, supervised by <a href="https://scholar.google.com/citations?hl=en&user=UUtYPl4AAAAJ">Professor Xin Yao</a>.</p>
 
-<p align="justify">My research is mainly on machine learning and optimisation. Related research topics include jailbreak attacks, adversarial attacks, domain generalisation, hallucination detection and mitigation, multimodal learning, multi-objective optimisation, and more. <a href="https://scholar.google.com/citations?user=dtv_LZkAAAAJ&hl=en"><img src="assets/img/gs.png" width="12px"></a> </p>
+<p align="justify">My research is mainly on machine learning and optimisation. Related research topics include jailbreak attacks, adversarial attacks, domain generalisation, hallucination mitigation, multimodal learning, multi-objective optimisation, and more. <a href="https://scholar.google.com/citations?user=dtv_LZkAAAAJ&hl=en"><img src="assets/img/gs.png" width="12px"></a> </p>
 
 
 <Strong>News</strong>
