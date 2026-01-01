@@ -13,7 +13,7 @@ Senior Member of the IEEE
 	
 Research group leader (I lead the AI Safety Research Group with 10 Research Scientists and 2 Engineers at A*STAR)
 
-Associate Editor (AE) of <i>IEEE Transactions on Neural Networks and Learning Systems </i> (TNNLS), 2026 - present
+Associate Editor (AE) of <i>IEEE Transactions on Neural Networks and Learning Systems </i>, 2026 - present
 
 Member of the <a href="http://www.cs.bham.ac.uk/~limx/MaOP.html">IEEE Computational Intelligence Society Task Force on Many-Objective Optimisation</a>
 
