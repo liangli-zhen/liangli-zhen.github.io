@@ -13,6 +13,8 @@ Senior Member of the IEEE
 	
 Research group leader (I lead the AI Safety Research Group with 10 Research Scientists and 2 Engineers at A*STAR)
 
+Associate Editor (AE) of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+
 Member of the <a href="http://www.cs.bham.ac.uk/~limx/MaOP.html">IEEE Computational Intelligence Society Task Force on Many-Objective Optimisation</a>
 
 Executive Area Chair for <a href="http://valser.org/article-364-1.html">Vision And Learning SEminar (VALSE)</a>, 2020
