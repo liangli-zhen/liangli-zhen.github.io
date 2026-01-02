@@ -25,24 +25,25 @@ social: false  # includes social icons at the bottom of the page
 <Strong>News</strong>
 
 <ul align="justify">
-<li>[Dec 2025] We currently have openings for AI Safety research scientists.</li> 
-<li>[Dec 2025] We have openings for interns, visiting PhD students (including CSC Scholarship), and <a href="https://www.a-star.edu.sg/scholarships/home/international-awards/astar-research-attachment-programme-arap">ARAP</a> scholarship applicants.</li> 
-<li>[Sept 2025] Our paper on Single-Domain Generalization via Path Flatness-Aware Optimization of Loss Landscapes has been accepted for publication by the IEEE Transactions on Neural Networks and Learning Systems.</li>
-<li>[Aug 2025] Our paper on GAPNet: A Lightweight Framework for Image and Video Salient Object Detection via Granularity-Aware Paradigm has been accepted for publication by Machine Intelligence Research.</li>
-<li>[Jun 2025] Our paper on Low-Resolution Self-Attention for Semantic Segmentation has been accepted for publication by the IEEE Transactions on Pattern Analysis and Machine Intelligence.</li> 
-<li>[May 2025] 🏆 Our team received the 3rd Prize in the <a href="https://aisingapore.org/global-challenge-for-safe-and-secure-llms/">Global Challenge for Safe and Secure LLMs</a> (Track 2: Defence).</li>
-<li>[May 2025] Our project on Development of Stable, Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1b) has been awarded the <a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a> grant funding.</li>
-<li>[Apr 2025] Our project on Advanced Optical Metrology for Asian Skin Health and Diseases (OPTIMAS) has been awarded the <a href="https://www.a-star.edu.sg/Research/funding-opportunities/iaf-pp">RIE2025 Industry Alignment Fund Pre-positioning (IAF-PP)</a> grant funding.</li>
-  <li>[Apr 2025] Our paper on A Survey and Evaluation of Adversarial Attacks in Object Detection has been accepted for publication by the IEEE Transactions on Neural Networks and Learning Systems.</li>
-  <li>[Feb 2025] Call for candidates: <a href="https://www.findaphd.com/phds/project/uom-a-star-controlled-synthesis-of-virtual-patient-population-with-multimodal-representation-learning/?p182543/">The University of Manchester-A*STAR PhD Programme</a>. Application deadline: 21 March.</li>
-  <li>[Dec 2024] Our paper on Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval has been accepted for publication by the AAAI Conference on Artificial Intelligence 2025.</li>  
+  <li>[Jan 2026] We currently have openings for AI Safety research scientists.</li>
+  <li>[Jan 2026] I will be serving as an Associate Editor for <i><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE Transactions on Neural Networks and Learning Systems</a></i>.</li>
+  <li>[Dec 2025] We have openings for visiting PhD students (including CSC Scholarship) and <a href="https://www.a-star.edu.sg/scholarships/home/international-awards/astar-research-attachment-programme-arap">ARAP</a> scholarship applicants.</li>
+  <li>[Sept 2025] Our paper on Single-Domain Generalisation via Path Flatness-Aware Optimisation of Loss Landscapes has been accepted for publication by <i>IEEE Transactions on Neural Networks and Learning Systems</i>.</li>
+  <li>[Aug 2025] Our paper on GAPNet: A Lightweight Framework for Image and Video Salient Object Detection via Granularity-Aware Paradigm has been accepted for publication by <i>Machine Intelligence Research</i>.</li>
+  <li>[Jun 2025] Our paper on Low-Resolution Self-Attention for Semantic Segmentation has been accepted for publication by <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>.</li>
+  <li>[May 2025] 🏆 Our team ranked the 3rd Place in the <a href="https://aisingapore.org/global-challenge-for-safe-and-secure-llms/">Global Challenge for Safe and Secure LLMs</a> (Track 2: Defence).</li>
+  <li>[May 2025] Our project on Development of Stable, Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1b) has been awarded the <a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a> grant funding.</li>
+  <li>[Apr 2025] Our project on Advanced Optical Metrology for Asian Skin Health and Diseases (OPTIMAS) has been awarded the <a href="https://www.a-star.edu.sg/Research/funding-opportunities/iaf-pp">RIE2025 Industry Alignment Fund Pre-positioning (IAF-PP)</a> grant funding.</li>
+  <li>[Apr 2025] Our paper on A Survey and Evaluation of Adversarial Attacks in Object Detection has been accepted for publication by <i>IEEE Transactions on Neural Networks and Learning Systems</i>.</li>
+  <li>[Feb 2025] Call for candidates: <a href="https://www.findaphd.com/phds/project/uom-a-star-controlled-synthesis-of-virtual-patient-population-with-multimodal-representation-learning/?p182543/">The University of Manchester–A*STAR PhD Programme</a>. Application deadline: 21 March.</li>
+  <li>[Dec 2024] Our paper on Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval has been accepted for publication by the <i>AAAI Conference on Artificial Intelligence 2025</i>.</li>
   <li>[Aug 2024] Our project on Cyber Sentinel: A Unified Framework for Safeguarding Foundation Models has been awarded the <a href="https://www.ntu.edu.sg/crpo/crpo-verticals/grant-management/grand-challenge">CyberSG Research and Development Programme Office (CRPO) Grand Challenge</a> grant funding.</li>
-  <li>[Aug 2024] Our paper on Continuous Disentangled Joint Space Learning for Domain Generalization has been accepted for publication by the IEEE Transactions on Neural Networks and Learning Systems.</li>
-  <li>[May 2024] 🏆 Our team won the 1st Prize in the <a href="https://repss-w.github.io/">IJCAI Vision-based Remote Physiological Signal Sensing Challenge</a>.</li>
-  <li>[Mar 2024] Our paper on Generative Image Reconstruction from Gradients has been accepted by the IEEE Transactions on Neural Networks and Learning Systems.</li>
-  <li>[Jan 2024] Our paper on Geometric Correspondence-Based Multimodal Learning for Ophthalmic Image Analysis has been accepted for publication by the IEEE Transactions on Medical Imaging.</li>
-  <li>[Jan 2024] Our paper on MedNAS: Multiscale Training-Free Neural Architecture Search for Medical Image Analysis has been accepted for publication by the IEEE Transactions on Evolutionary Computation.</li>
-  <li>[Nov 2023] Our paper on Deep Supervised Multi-View Learning with Graph Priors has been accepted for publication by the IEEE Transactions on Image Processing.</li>
+  <li>[Aug 2024] Our paper on Continuous Disentangled Joint Space Learning for Domain Generalisation has been accepted for publication by <i>IEEE Transactions on Neural Networks and Learning Systems</i>.</li>
+  <li>[May 2024] 🏆 Our team won the 1st Place in the <a href="https://repss-w.github.io/">IJCAI Vision-based Remote Physiological Signal Sensing Challenge</a>.</li>
+  <li>[Mar 2024] Our paper on Generative Image Reconstruction from Gradients has been accepted for publication by <i>IEEE Transactions on Neural Networks and Learning Systems</i>.</li>
+  <li>[Jan 2024] Our paper on Geometric Correspondence-Based Multimodal Learning for Ophthalmic Image Analysis has been accepted for publication by <i>IEEE Transactions on Medical Imaging</i>.</li>
+  <li>[Jan 2024] Our paper on MedNAS: Multiscale Training-Free Neural Architecture Search for Medical Image Analysis has been accepted for publication by <i>IEEE Transactions on Evolutionary Computation</i>.</li>
+  <li>[Nov 2023] Our paper on Deep Supervised Multi-View Learning with Graph Priors has been accepted for publication by <i>IEEE Transactions on Image Processing</i>.</li>
   <li>[Jul 2023] Our project on <a href="https://aisingapore.org/development-of-stable-robust-and-secure-intelligent-systems-for-autonomous-vehicles">Development of Stable, Robust and Secure Intelligent Systems for Autonomous Vehicles (Stage 1a)</a> has been awarded the <a href="https://connect.aisingapore.org/2023/07/s20m-research-funding-to-address-challenges-related-to-the-increasing-use-of-ai-in-emerging-applications/">AI Singapore Robust AI Grand Challenge</a> grant funding.</li>
 </ul>
 
