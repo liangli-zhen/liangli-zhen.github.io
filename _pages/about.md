@@ -26,6 +26,7 @@ social: false  # includes social icons at the bottom of the page
 
 <ul align="justify">
   <li>[Jan 2026] We currently have openings for AI Safety research scientists.</li>
+  <li>[Jan 2026] Our paper on Safeguarding Federated Learning from Data Reconstruction Attacks via Gradient Dropout has been accepted for publication by <i>IEEE Transactions on Information Forensics and Security</i>.</li>
   <li>[Jan 2026] I will be serving as an Associate Editor for <i><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE Transactions on Neural Networks and Learning Systems</a></i>.</li>
   <li>[Dec 2025] We have openings for visiting PhD students (including CSC Scholarship) and <a href="https://www.a-star.edu.sg/scholarships/home/international-awards/astar-research-attachment-programme-arap">ARAP</a> scholarship applicants.</li>
   <li>[Sept 2025] Our paper on Single-Domain Generalisation via Path Flatness-Aware Optimisation of Loss Landscapes has been accepted for publication by <i>IEEE Transactions on Neural Networks and Learning Systems</i>.</li>
