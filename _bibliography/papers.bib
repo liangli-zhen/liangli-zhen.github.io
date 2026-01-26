@@ -7,6 +7,14 @@
   pdf={SGDRA2026.pdf},
   preview={SGDRA2026.png}
 }
+@article{Setthakorn2026noise,
+  title={Noise-adaptive diffusion sampling for inverse problems without task-specific tuning},
+  author={Setthakorn Tanomkiattikun and Zaiwang Gu and Liangli Zhen and Yingzhi Xia},
+  journal={ICLR},
+  year={2026},
+  abstract = {Diffusion models (DMs) have recently shown remarkable performance on inverse problems (IPs). Optimization-based methods can fast solve IPs using DMs as powerful regularizers, but it is susceptible to local minima and noise overfitting. Although DMs can provide strong priors for Bayesian approaches, enforcing measurement consistency during the denoising process leads to manifold infeasibility issues. We propose Noise-space Hamiltonian Monte Carlo (N-HMC), a posterior sampling method that treats reverse diffusion as a deterministic mapping from initial noise to clean images. N-HMC enables comprehensive exploration of the solution space, avoiding local optima. By moving inference entirely into the initial-noise space, N-HMC keeps proposals on the learned data manifold. We provide a comprehensive theoretical analysis of our approach and extend the framework to a noise-adaptive variant (NA-NHMC) that effectively handles IPs with unknown noise type and level. Extensive experiments across four linear and three nonlinear inverse problems demonstrate that NA-NHMC achieves superior reconstruction quality with robust performance across different hyperparameters and initializations, significantly outperforming recent state-of-the-art methods. Code will be made available on GitHub upon publication.},
+  preview={HMC2026.png}
+}
 @article{Wang2025Sing,
   title={Single-domain generalization via path flatness-aware optimization of loss landscapes},
   author={Zizhou Wang and Yan Wang and Jiawei Du and Yangqin Feng and Joey Tianyi Zhou and Rick Siow Mong Goh and Yong Liu and Liangli Zhen*},
