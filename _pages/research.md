@@ -20,7 +20,7 @@ Our work in machine learning includes safe & robust learning, multimodal learnin
 
 <i>Safe and robust machine learning</i>
 <ul>
-<li>[<a href="https://arxiv.org/pdf/2603.16192v1">arXiv preprint26</a>] A novel jailbreak attack framework for risk assessment of large languge models</li>
+<li>[<a href="https://arxiv.org/pdf/2603.16192v1">arXiv26</a>] A novel jailbreak attack framework for risk assessment of large languge models</li>
 <li>[<a href="https://liangli-zhen.github.io/assets/pdf/SGDRA2026.pdf">TIFS26</a>] A defense method for gradient inversion attack in federated learning systems</li>
 <li>[<a href="https://liangli-zhen.github.io/assets/pdf/PFO2025.pdf">TNNLS26</a>] A domain generalisation method from the optimisation perspective (path flateness of loss landspaces)</li>
 <li>[<a href="https://liangli-zhen.github.io/assets/pdf/TNNLS_CJSL.pdf">TNNLS25</a>] A domain generalisation method from the learning perspective (feature disentanglement)</li>
