@@ -13,7 +13,7 @@ nav_order: 3
 
 <li>
 <b>Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles</b><br>
-<a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a> Programme, 2023 - 2026. Co-Principal Investigator and A*STAR Team Principal Investigator.
+<a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a> Programme, 2023 - 2026. A*STAR Team Principal Investigator.
 </li><br>
 
 <li>  
