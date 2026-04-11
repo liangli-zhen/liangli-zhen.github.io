@@ -27,19 +27,10 @@ Industry Collaboration Project. 2025 - 2029. Principal Investigator.
 </li><br>
 
 <li>  
-<b>Artificial Intelligence for the Diagnosis of Dermatological Conditions</b><br>
-Industry Collaboration Project. 2025 - 2026. Principal Investigator.
-</li><br>
-
-<li>  
 <b>Deep Neural Networks for Automated Atopic Dermatitis Diagnosis</b><br>
 Industry Collaboration Project. 2022 - 2024. Principal Investigator.
 </li><br>
 
-<li>
-<b>Communication-Efficient Federated Learning</b><br>
-Industry Collaboration Project. 2021 - 2022. Principal Investigator.
-</li><br>
 
 <li>
 <b>Cyber Sentinel: A Unified Framework for Safeguarding Foundation Models</b><br>
