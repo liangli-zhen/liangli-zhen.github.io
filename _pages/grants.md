@@ -31,6 +31,11 @@ Industry Collaboration Project. 2025 - 2029. Principal Investigator.
 Industry Collaboration Project. 2022 - 2024. Principal Investigator.
 </li><br>
 
+<li>  
+<b>Assessment of Brittleness and Anomaly Mitigation for Computer Vision Models</b><br>
+<a href="https://www.a-star.edu.sg/aerospace">Singapore Aerospace Programme</a>, 2026 - 2028. Co-Principal Investigator.
+</li><br>
+
 
 <li>
 <b>Cyber Sentinel: A Unified Framework for Safeguarding Foundation Models</b><br>
