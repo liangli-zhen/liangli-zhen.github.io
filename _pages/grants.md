@@ -21,15 +21,6 @@ nav_order: 3
 <a href="https://www.a-star.edu.sg/aerospace">Singapore Aerospace Programme</a>, 2023 - 2025. Principal Investigator.
 </li><br>
 
-<li>  
-<b>Artificial Intelligence–Powered Acne Scoring System</b><br>
-Industry Collaboration Project. 2025 - 2029. Principal Investigator.
-</li><br>
-
-<li>  
-<b>Deep Neural Networks for Automated Atopic Dermatitis Diagnosis</b><br>
-Industry Collaboration Project. 2022 - 2024. Principal Investigator.
-</li><br>
 
 <li>  
 <b>Assessment of Brittleness and Anomaly Mitigation for Computer Vision Models</b><br>
@@ -57,10 +48,5 @@ AI Singapore Technology Challenge Programme. 2022 – 2025. Co-Principal Investi
 <li>
 <b>MARIO: Multimodal AI-Driven Decision Making for Ophthalmology</b><br>
 <a href="https://www.a-star.edu.sg/docs/librariesprovider1/default-document-library/research/funding-opportunities/ame-programmatic-funds/ame-rie2020-programmatic-(updated-2018-06-09)_1.pdf">RIE2020 Advanced Manufacturing and Engineering (AME) Programmatic Fund</a>. 2021 - 2024. Co-Investigator and Lead of Work Package 1 on Medical Multimodal Learning.
-</li><br>
-
-<li>
-<b>Robust Prohibited Items Screening System</b><br>
-Industry Collaboration Project. 2021 - 2022. Co-Principal Investigator.
 </li><br>
 
