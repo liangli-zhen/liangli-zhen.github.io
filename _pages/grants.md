@@ -11,9 +11,9 @@ nav_order: 3
 <a href="https://www.hsa.gov.sg/medical-devices/io">Centre for Advancing Regulatory Science Research in Next-Generation Therapeutics (ASCENT)</a> Programme, 2026 - 2028. Lead Principal Investigator.
 </li><br>
 
-<li>
-<b>Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles</b><br>
-<a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a> Programme, 2023 - 2026. A*STAR Team Principal Investigator.
+<li>  
+<b>Artificial Intelligence–Powered Acne Scoring System</b><br>
+Industry Collaboration Project. 2025 - 2029. Principal Investigator.
 </li><br>
 
 <li>  
@@ -22,11 +22,20 @@ nav_order: 3
 </li><br>
 
 
+<li>
+<b>Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles</b><br>
+<a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a> Programme, 2023 - 2026. A*STAR Team Principal Investigator.
+</li><br>
+
+<li>  
+<b>Deep Neural Networks for Automated Atopic Dermatitis Diagnosis</b><br>
+Industry Collaboration Project. 2022 - 2024. Principal Investigator.
+</li><br>
+
 <li>  
 <b>Assessment of Brittleness and Anomaly Mitigation for Computer Vision Models</b><br>
 <a href="https://www.a-star.edu.sg/aerospace">Singapore Aerospace Programme</a>, 2026 - 2028. Co-Principal Investigator.
 </li><br>
-
 
 <li>
 <b>Cyber Sentinel: A Unified Framework for Safeguarding Foundation Models</b><br>
