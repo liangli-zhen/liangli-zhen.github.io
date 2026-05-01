@@ -39,17 +39,19 @@ Industry Collaboration Project. 2022 - 2024. Principal Investigator.
 <a href="https://www.a-star.edu.sg/aerospace">Singapore Aerospace Programme</a>, 2026 - 2028. Co-Principal Investigator.
 </li><br>
 
-<li>
-<b>Cyber Sentinel: A Unified Framework for Safeguarding Foundation Models</b><br>
-<a href="https://www.ntu.edu.sg/crpo/crpo-verticals/grant-management/grand-challenge">CyberSG Research and Development Programme Office (CRPO) Grand Challenge</a> Programme. 2024 - 2027.<br>
-A*STAR Team Technical Lead.
-</li><br>
 
 <li>
 <b>Advanced Optical Metrology for Asian Skin Health and Diseases (OPTIMAS)</b><br>
 <a href="https://www.a-star.edu.sg/Research/funding-opportunities/iaf-pp">RIE2025 Human Health and Potential (HHP) Industry Alignment Fund Pre-positioning (IAF-PP)</a> Programme. 2025 - 2029.<br>
 Co-Investigator and IHPC Team Technical Lead.
 </li><br>
+
+<li>
+<b>Cyber Sentinel: A Unified Framework for Safeguarding Foundation Models</b><br>
+<a href="https://www.ntu.edu.sg/crpo/crpo-verticals/grant-management/grand-challenge">CyberSG Research and Development Programme Office (CRPO) Grand Challenge</a> Programme. 2024 - 2027.<br>
+A*STAR Team Technical Lead.
+</li><br>
+
 
 <li>
 <b><a href="https://aisingapore.org/ottc-call-awardees/rapier-radiology-pathology-information-exchange-resource/">RAPIER - Radiology Pathology Information Exchange Resource</a></b><br>
