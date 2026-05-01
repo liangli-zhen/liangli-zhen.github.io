@@ -16,16 +16,18 @@ nav_order: 3
 Industry Collaboration Project. 2025 - 2029. Principal Investigator.
 </li><br>
 
-<li>  
-<b>Assessment of Brittleness of Computer Vision Models</b><br>
-<a href="https://www.a-star.edu.sg/aerospace">Singapore Aerospace Programme</a>, 2023 - 2025. Principal Investigator.
-</li><br>
-
 
 <li>
 <b>Development of Stable Robust and Secure Intelligent Systems for Autonomous Vehicles</b><br>
 <a href="https://aisingapore.org/technology/robust-ai-grand-challenge/">AI Singapore Robust AI Grand Challenge</a> Programme, 2023 - 2026. A*STAR Team Principal Investigator.
 </li><br>
+
+
+<li>  
+<b>Assessment of Brittleness of Computer Vision Models</b><br>
+<a href="https://www.a-star.edu.sg/aerospace">Singapore Aerospace Programme</a>, 2023 - 2025. Principal Investigator.
+</li><br>
+
 
 <li>  
 <b>Deep Neural Networks for Automated Atopic Dermatitis Diagnosis</b><br>
