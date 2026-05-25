@@ -8,7 +8,7 @@ nav_order: 3
 ---
 <li>
 <b>GenAI-MD: A Regulatory Framework for Safe and Responsible Generative AI-Enabled Medical Devices</b><br>
-<a href="https://www.hsa.gov.sg/medical-devices/io">Centre for Advancing Regulatory Science Research in Next-Generation Therapeutics (ASCENT)</a> Programme, 2026 - 2028. Lead Principal Investigator.
+<a href="https://www.hsa.gov.sg/medical-devices/io">Advancing Regulatory Science Research in Next-Generation Therapeutics (ASCENT)</a> Programme, 2026 - 2028. Lead Principal Investigator.
 </li><br>
 
 <li>  
