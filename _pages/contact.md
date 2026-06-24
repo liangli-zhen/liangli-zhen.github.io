@@ -12,4 +12,4 @@ nav_order: 7
 
 <i style="font-size:14px" class="fa">&#xf041;</i>&nbsp; 1 Fusionopolis Way, #16-16 Connexis North, Singapore 138632
 
-<div><iframe src="https://www.onemap.sg/amm/amm.html?mapStyle=Default&amp;zoomLevel=13&amp;marker=latLng:1.29936328832975,103.78768764337099!iwt:null!colour:red&amp;popupWidth=200" height="450" width="100%" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style="margin-top:20px;"></div>
+<div><iframe src="https://www.onemap.gov.sg/?lat=1.2996334&lng=103.7875789&zoom=19" height="450" width="100%" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style="margin-top:20px;"></div>
