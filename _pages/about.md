@@ -25,7 +25,7 @@ social: false  # includes social icons at the bottom of the page
 <Strong>News</strong>
 
 <ul align="justify">
-  <li>[Jul 2026] I joined A*STAR CFAR to lead the Trustworthy AI team.</li>
+  <li>[Jul 2026] Today, A*STAR launches the Institute of Advanced Intelligence and Computing (IAIC), bringing together the strengths of IHPC and I²R. I have joined CFAR within IAIC.</li>
   <li>[May 2026] Our paper on Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective has been accepted for publication at <i>ICML 2026</i>.</li>
   <li>[Jan 2026] Our paper on Safeguarding Federated Learning from Data Reconstruction Attacks via Gradient Dropout has been accepted for publication by <i>IEEE Transactions on Information Forensics and Security</i>.</li>
     <li>[Jan 2026] Our paper on Noise-Adaptive Diffusion Sampling for Inverse Problems Without Task-Specific Tuning has been accepted for publication at <i>ICLR 2026</i>.</li>
