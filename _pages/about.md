@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p align="justify">Welcome to my homepage! I am a Senior Scientist at the <a href="https://www.a-star.edu.sg/cfar">Centre for Frontier AI Research (CFAR)</a>, Agency for Science, Technology and Research (<a href="https://www.a-star.edu.sg/">A*STAR</a>), Singapore, where I lead the Trustworthy AI team, advancing safety, robustness, privacy, and governance in AI to support responsible real-world deployment and application. I also serve as an Associate Editor of <i>IEEE Transactions on Neural Networks and Learning Systems</i> and am a Senior Member of the IEEE. Prior to joining A*STAR, I received my PhD in Computer Science from Sichuan University in 2018, under the supervision of <a href="https://scholar.google.com/citations?user=0gupif8AAAAJ&hl=en">Professor Dezhong Peng</a>. From 2016 to 2018, I was a joint PhD student at the University of Birmingham, where I was supervised by <a href="https://scholar.google.com/citations?hl=en&user=UUtYPl4AAAAJ">Professor Xin Yao</a>.</p>
+<p align="justify">Welcome to my homepage! I am a Senior Scientist at the <a href="https://www.a-star.edu.sg/cfar">Centre for Frontier AI Research (CFAR)</a>, Agency for Science, Technology and Research (<a href="https://www.a-star.edu.sg/">A*STAR</a>), Singapore, where I lead the Trustworthy AI team, advancing safety, robustness, privacy, and governance in AI to support responsible real-world deployment and application. I am also a Senior Member of the IEEE. Prior to joining A*STAR, I received my PhD in Computer Science from Sichuan University in 2018, under the supervision of <a href="https://scholar.google.com/citations?user=0gupif8AAAAJ&hl=en">Professor Dezhong Peng</a>. From 2016 to 2018, I was a joint PhD student at the University of Birmingham, supervised by <a href="https://scholar.google.com/citations?hl=en&user=UUtYPl4AAAAJ">Professor Xin Yao</a>.</p>
 
 <p align="justify">My research is mainly on machine learning and optimisation. Related research topics include adversarial attacks and defences, domain generalisation, jailbreak attacks and guardrails, hallucination mitigation, multimodal learning, multi-objective optimisation, multi-agent systems and more. <a href="https://scholar.google.com/citations?user=dtv_LZkAAAAJ&hl=en"><img src="assets/img/gs.png" width="12px"></a> </p>
 
@@ -25,9 +25,10 @@ social: false  # includes social icons at the bottom of the page
 <Strong>News</strong>
 
 <ul align="justify">
-  <li>[May 2026] Our paper on Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective has been accepted for publication by <i>ICML 2026</i>.</li>
+  <li>[Jul 2026] I joined CFAR, A*STAR, to lead the Trustworthy AI team.</li>
+  <li>[May 2026] Our paper on Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective has been accepted for publication at <i>ICML 2026</i>.</li>
   <li>[Jan 2026] Our paper on Safeguarding Federated Learning from Data Reconstruction Attacks via Gradient Dropout has been accepted for publication by <i>IEEE Transactions on Information Forensics and Security</i>.</li>
-    <li>[Jan 2026] Our paper on Noise-Adaptive Diffusion Sampling for Inverse Problems Without Task-Specific Tuning has been accepted for publication by <i>ICLR 2026</i>.</li>
+    <li>[Jan 2026] Our paper on Noise-Adaptive Diffusion Sampling for Inverse Problems Without Task-Specific Tuning has been accepted for publication at <i>ICLR 2026</i>.</li>
   <li>[Jan 2026] I will be serving as an Associate Editor for <i><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE Transactions on Neural Networks and Learning Systems</a></i>.</li>
   <li>[Dec 2025] We have openings for visiting PhD students (including CSC Scholarship) and <a href="https://www.a-star.edu.sg/scholarships/home/international-awards/astar-research-attachment-programme-arap">ARAP</a> scholarship applicants.</li>
   <li>[Sept 2025] Our paper on Single-Domain Generalisation via Path Flatness-Aware Optimisation of Loss Landscapes has been accepted for publication by <i>IEEE Transactions on Neural Networks and Learning Systems</i>.</li>
