@@ -9,7 +9,7 @@ display_categories: [service]
 horizontal: false
 ---
 
-Research group leader (I lead the Trustworthy AI Research Team with 7 Research Scientists and 1 Engineer at A*STAR)
+Research team leader (I lead the Trustworthy AI Research Team with 7 Research Scientists and 1 Engineer at A*STAR)
 
 Senior Member of the IEEE
 
