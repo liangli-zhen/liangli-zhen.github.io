@@ -1,3 +1,14 @@
+@article{Tiana2026Dual,
+  title={Dual-Dynamic In-Context Learning for Medical Image Segmentation},
+  author={Tiana Tianying Chen and Liangli Zhen* and Yanyu Xu and Shishuai Hu and Huazhu Fu and Limsoon Wong*},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2026},
+  abstract = {Visual in-context learning (ICL) enables medical image segmentation models to adapt to new tasks using only a small set of annotated support images, without additional model fine-tuning. This makes visual ICL promising for clinical deployment, yet a fundamental limitation remains. 
+Current ICL models lack the intrinsic ability to adaptively integrate supports based on their relevance to the query. By either aggregating supports uniformly or relying on external retrieval, these methods limit query-aware support integration within the model itself. We introduce Dual-DSA (Dual-Dynamic Support Alignment), a reliability-aware visual ICL framework that dynamically integrates supports at the patch and support-set levels. At the patch level, DynPatch-Align selectively attends to relevant support regions for each query location, enabling fine-grained contextual alignment. At the support set level, evidential fusion integrates support-conditioned predictions based on uncertainty and consistency, and provides an Aggregate Evidential Confidence Score for reliability assessment. Together, these mechanisms enable intrinsic, query-adaptive support integration across both levels. Extensive experiments on 11 medical imaging datasets across endoscopy, breast ultrasound, and thyroid ultrasound show that Dual-DSA achieves strong full-coverage performance, obtaining the best Dice score on 8 out of 11 datasets and consistently outperforming its attention-based ICL backbone. Furthermore, the derived confidence scores correlate with segmentation quality and enable confidence-based rejection to improve retained-case performance, providing a practical mechanism for quality control in clinical workflows.},
+  pdf={DualDSA-TMI2026.pdf},
+  preview={TMI2026-DualDSA.png}
+}
+
 
 @article{Sotthiwa2026safeguarding,
   title={Safeguarding federated learning from data reconstruction attacks via gradient dropout},
