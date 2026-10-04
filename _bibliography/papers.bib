@@ -1,10 +1,9 @@
 @article{Liu2026Securing,
-  title={Securing large language model agents against multi-turn jailbreaks via evolving intent-risk graphs,
+  title={Securing large language model agents against multi-turn jailbreaks via evolving intent-risk graphs},
   author={Xinyu Liu and Chenwei Tang and Rong Xiao and Liangli Zhen and Jiancheng Lv},
   journal={Information Fusion},
   year={2026},
   abstract = {Multi-turn jailbreak attacks, decomposing strategically malicious intent into sequences of Multi-turn jailbreak attacks, decomposing strategically malicious intent into sequences of seemingly benign queries, pose a critical security threat to large language model agents. Existing defenses, whether based on static input-filtering or rigid alignment, often fail to detect such gradual intent drift and frequently sacrifice utility through indiscriminate refusals or impaired reasoning. To address this, we propose Graph‐MDP, a novel real‐time defense framework that reformulates multi‐turn safety as dynamic state transitions over an evolving intent‐risk graph via a risk-aware Markov decision process. During interaction, Graph‐MDP performs proactive trajectory monitoring, computing a path‐based risk score that integrates node vulnerability, edge transition risks, and adversarial escalation trends. This enables adaptive safety modulation, maintaining high utility in low‐risk contexts while progressively tightening guardrails as risk accumulates. After each dialogue, an anchor-based Temporal Difference learning mechanism identifies the Risk Anchor, the pivotal turn where an attack manifests, to propagate safety rewards bidirectionally to refine risk estimation and preempt similar adversarial patterns. As a plug-and-play defense layer, Graph‐MDP requires no fine-tuning and maintains a bounded memory footprint through a node-eviction policy. Experiments on CoSafe and SafeDialBench show that Graph-MDP significantly reduces attack success rates while preserving model utility. This work establishes a scalable paradigm for securing agents against complex, long-horizon adversarial strategies.},
-  pdf={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7227210},
   preview={InfF2026_SLLMA.png}
 }
 
