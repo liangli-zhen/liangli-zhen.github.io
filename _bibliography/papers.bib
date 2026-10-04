@@ -50,6 +50,19 @@ Current ICL models lack the intrinsic ability to adaptively integrate supports b
   preview={ESA2026_SANN.png}
 }
 
+@article{Wu2026Gapnet,
+  title={GAPNet: A lightweight framework for image and video salient object detection via granularity-aware paradigm},
+  author={Yu-Huan Wu and Wei Liu* and Zi-Xuan Zhu and Zizhou Wang and Yong Liu and Liangli Zhen*},
+  journal={Machine Intelligence Research},
+  year={2026},
+  abstract = {Recent salient object detection (SOD) models predominantly rely on heavyweight backbones, incurring substantial computational cost and hindering their practical application in various real-world settings, particularly on edge devices. This paper presents GAPNet, a lightweight network built on the granularity-aware paradigm for both image and video SOD. We assign saliency maps of different granularities to supervise the multi-scale decoder side-outputs:
+coarse object locations for high-level outputs and fine-grained object boundaries for low-level outputs. Specifically, our decoder is built with granularity-aware connections which fuse high-level features of low granularity and low-level features of high granularity, respectively. To support these connections, we design granular pyramid convolution (GPC) and cross-scale attention (CSA) modules for efficient fusion of low-scale and high-scale features, respectively.
+On top of the encoder, a self-attention module is built to learn global information, enabling accurate object localization with negligible computational cost. Unlike traditional U-Net-based approaches, our proposed method optimizes feature utilization and semantic interpretation while applying appropriate supervision at each processing stage. Extensive experiments show that the proposed method achieves a new state-of-the-art performance among lightweight image and video SOD models.},
+  pdf={GAPNet2025.pdf},
+  preview={GAPNet.png}
+}
+
+
 @article{Liu2026Securing,
   title={Securing large language model agents against multi-turn jailbreaks via evolving intent-risk graphs},
   author={Xinyu Liu and Chenwei Tang and Rong Xiao and Liangli Zhen and Jiancheng Lv},
@@ -99,17 +112,6 @@ Current ICL models lack the intrinsic ability to adaptively integrate supports b
   preview={DG_TNNLS.png}
 }
 
-@article{Wu2026Gapnet,
-  title={GAPNet: A lightweight framework for image and video salient object detection via granularity-aware paradigm},
-  author={Yu-Huan Wu and Wei Liu* and Zi-Xuan Zhu and Zizhou Wang and Yong Liu and Liangli Zhen*},
-  journal={Machine Intelligence Research},
-  year={2026},
-  abstract = {Recent salient object detection (SOD) models predominantly rely on heavyweight backbones, incurring substantial computational cost and hindering their practical application in various real-world settings, particularly on edge devices. This paper presents GAPNet, a lightweight network built on the granularity-aware paradigm for both image and video SOD. We assign saliency maps of different granularities to supervise the multi-scale decoder side-outputs:
-coarse object locations for high-level outputs and fine-grained object boundaries for low-level outputs. Specifically, our decoder is built with granularity-aware connections which fuse high-level features of low granularity and low-level features of high granularity, respectively. To support these connections, we design granular pyramid convolution (GPC) and cross-scale attention (CSA) modules for efficient fusion of low-scale and high-scale features, respectively.
-On top of the encoder, a self-attention module is built to learn global information, enabling accurate object localization with negligible computational cost. Unlike traditional U-Net-based approaches, our proposed method optimizes feature utilization and semantic interpretation while applying appropriate supervision at each processing stage. Extensive experiments show that the proposed method achieves a new state-of-the-art performance among lightweight image and video SOD models.},
-  pdf={GAPNet2025.pdf},
-  preview={GAPNet.png}
-}
 
 @article{Liao2025Vision,
   title={Vision-amplified semantic entropy for hallucination detection in medical visual question answering},
