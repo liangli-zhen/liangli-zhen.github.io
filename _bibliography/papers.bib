@@ -8,60 +8,6 @@
   preview={SGDRA2026.png}
 }
 
-@article{Tiana2026Dual,
-  title={Dual-dynamic in-context learning for medical image segmentation},
-  author={Tiana Tianying Chen and Liangli Zhen* and Yanyu Xu and Shishuai Hu and Huazhu Fu and Limsoon Wong*},
-  journal={IEEE Transactions on Medical Imaging},
-  year={2026},
-  abstract = {Visual in-context learning (ICL) enables medical image segmentation models to adapt to new tasks using only a small set of annotated support images, without additional model fine-tuning. This makes visual ICL promising for clinical deployment, yet a fundamental limitation remains. 
-Current ICL models lack the intrinsic ability to adaptively integrate supports based on their relevance to the query. By either aggregating supports uniformly or relying on external retrieval, these methods limit query-aware support integration within the model itself. We introduce Dual-DSA (Dual-Dynamic Support Alignment), a reliability-aware visual ICL framework that dynamically integrates supports at the patch and support-set levels. At the patch level, DynPatch-Align selectively attends to relevant support regions for each query location, enabling fine-grained contextual alignment. At the support set level, evidential fusion integrates support-conditioned predictions based on uncertainty and consistency, and provides an Aggregate Evidential Confidence Score for reliability assessment. Together, these mechanisms enable intrinsic, query-adaptive support integration across both levels. Extensive experiments on 11 medical imaging datasets across endoscopy, breast ultrasound, and thyroid ultrasound show that Dual-DSA achieves strong full-coverage performance, obtaining the best Dice score on 8 out of 11 datasets and consistently outperforming its attention-based ICL backbone. Furthermore, the derived confidence scores correlate with segmentation quality and enable confidence-based rejection to improve retained-case performance, providing a practical mechanism for quality control in clinical workflows.},
-  pdf={DualDSA-TMI2026.pdf},
-  preview={TMI2026-DualDSA.png}
-}
-
-@article{Setthakorn2026noise,
-  title={Noise-adaptive diffusion sampling for inverse problems without task-specific tuning},
-  author={Yingzhi Xia and Setthakorn Tanomkiattikun and Liangli Zhen* and Zaiwang Gu},
-  journal={ICLR},
-  year={2026},
-  abstract = {Diffusion models (DMs) have recently shown remarkable performance on inverse problems (IPs). Optimization-based methods can fast solve IPs using DMs as powerful regularizers, but it is susceptible to local minima and noise overfitting. Although DMs can provide strong priors for Bayesian approaches, enforcing measurement consistency during the denoising process leads to manifold infeasibility issues. We propose Noise-space Hamiltonian Monte Carlo (N-HMC), a posterior sampling method that treats reverse diffusion as a deterministic mapping from initial noise to clean images. N-HMC enables comprehensive exploration of the solution space, avoiding local optima. By moving inference entirely into the initial-noise space, N-HMC keeps proposals on the learned data manifold. We provide a comprehensive theoretical analysis of our approach and extend the framework to a noise-adaptive variant (NA-NHMC) that effectively handles IPs with unknown noise type and level. Extensive experiments across four linear and three nonlinear inverse problems demonstrate that NA-NHMC achieves superior reconstruction quality with robust performance across different hyperparameters and initializations, significantly outperforming recent state-of-the-art methods. Code will be made available on GitHub upon publication.},
-  pdf={ICLR2026_NAHMC.pdf},
-  code={https://na-hmc.github.io/},
-  preview={HMC2026.png}
-}
-
-@article{Wang2026Sing,
-  title={Single-domain generalization via path flatness-aware optimization of loss landscapes},
-  author={Zizhou Wang and Yan Wang and Jiawei Du and Yangqin Feng and Joey Tianyi Zhou and Rick Siow Mong Goh and Yong Liu and Liangli Zhen*},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2026},
-  abstract = {Domain generalization methods traditionally rely on multiple source domains to achieve robust performance across unseen target domains. However, single-domain generalization (SDG) presents a more practical paradigm by learning from a single source domain, addressing scenarios where access to multiple domains is limited. While existing SDG approaches primarily focus on data augmentation and style transfer techniques to enhance model robustness, these methods often incur substantial computational overhead and may inadequately capture the complexity of real-world domain shifts. In this paper, we propose Path Flatness-aware Optimization (PFO), an optimization framework that addresses the fundamental challenges of SDG. Unlike conventional approaches that rely on synthetic data generation, PFO identifies and exploits regions of flat minima within the optimization landscape of deep neural networks. The framework employs an iterative optimization strategy to construct a path through the parameter space along which an ensemble of candidate models achieves minimal empirical risk. The initialization of this optimization path is achieved through the strategic interconnection of model instances, each originating from carefully selected anchor points that are computationally determined through systematic analysis of classification decision manifolds. This optimization path serves as a mechanism for implicit distribution alignment between source and target domains within the loss landscape, consequently enhancing the model's capacity for cross-domain generalization. Empirical evaluation on multiple benchmark datasets demonstrates significant performance improvements in cross-domain generalization, validating the efficacy of our approach.},
-  pdf={PFO2025.pdf},
-  preview={PFO2025.png}
-}
-
-@article{wang2026adaptive,
-  title={Self-adaptive neural networks for domain generalization in medical image segmentation},
-  author={Yan Wang and Zizhou Wang and Yangqin Feng and Lei Zhang and Rick Siow Mong Goh and Yong Liu and Liangli Zhen*},
-  journal={Expert Systems with Applications},
-  year={2026},
-  abstract = {Domain generalization is a critical challenge for expert systems in real-world medical environments, where data distributions often vary across acquisition settings. Existing domain generalization methods typically rely on carefully designed data augmentation or lack adaptivity to new data, which limits their applicability to new datasets. To address this problem, we propose a Self-Adaptive Neural Network (SA-Net) that learns domain-insensitive yet instance-adaptive feature representations. The proposed framework introduces a lightweight self-adaptive generator to rectify feature representations at the instance level and combines it with adversarial domain learning to suppress domain-specific information. Furthermore, a novel sample error loss is designed to improve the training of the self-adaptive generator by enforcing that removing the rectified latent representation from the original feature representation does not affect the final segmentation output. The effectiveness of SA-Net is validated on three representative medical image segmentation tasks, i.e., eye vessel segmentation, optic disc/cup segmentation, and skin lesion segmentation, across 12 datasets with substantial domain diversity. Experimental results demonstrate that SA-Net consistently outperforms state-of-the-art domain generalization methods on unseen domains while maintaining competitive computational efficiency. These results indicate that SA-Net provides a robust and scalable solution for intelligent medical image segmentation systems under distribution shifts.},
-  pdf={ESA2026_SANN.pdf},
-  preview={ESA2026_SANN.png}
-}
-
-@article{Wu2026Gapnet,
-  title={GAPNet: A lightweight framework for image and video salient object detection via granularity-aware paradigm},
-  author={Yu-Huan Wu and Wei Liu* and Zi-Xuan Zhu and Zizhou Wang and Yong Liu and Liangli Zhen*},
-  journal={Machine Intelligence Research},
-  year={2026},
-  abstract = {Recent salient object detection (SOD) models predominantly rely on heavyweight backbones, incurring substantial computational cost and hindering their practical application in various real-world settings, particularly on edge devices. This paper presents GAPNet, a lightweight network built on the granularity-aware paradigm for both image and video SOD. We assign saliency maps of different granularities to supervise the multi-scale decoder side-outputs:
-coarse object locations for high-level outputs and fine-grained object boundaries for low-level outputs. Specifically, our decoder is built with granularity-aware connections which fuse high-level features of low granularity and low-level features of high granularity, respectively. To support these connections, we design granular pyramid convolution (GPC) and cross-scale attention (CSA) modules for efficient fusion of low-scale and high-scale features, respectively.
-On top of the encoder, a self-attention module is built to learn global information, enabling accurate object localization with negligible computational cost. Unlike traditional U-Net-based approaches, our proposed method optimizes feature utilization and semantic interpretation while applying appropriate supervision at each processing stage. Extensive experiments show that the proposed method achieves a new state-of-the-art performance among lightweight image and video SOD models.},
-  pdf={GAPNet2025.pdf},
-  preview={GAPNet.png}
-}
-
 
 @article{Liu2026Securing,
   title={Securing large language model agents against multi-turn jailbreaks via evolving intent-risk graphs},
@@ -72,14 +18,13 @@ On top of the encoder, a self-attention module is built to learn global informat
   preview={InfF2026_SLLMA.png}
 }
 
-@article{Yang2026Rethinking,
-  title={Rethinking KV cache eviction via a unified information-theoretic objective},
-  author={Jiaming Yang and Chenwei Tang and Liangli Zhen and Jiancheng Lv},
-  journal={ICML},
+@article{ren2026flowleak,
+  title={FlowLeak: Coverage-guided extraction of dynamic workflows in LLM-based multi-agent systems},
+  author={Zhiyao Ren and Siyuan Liang and Yibing Zhan and Jun Long Tan and Xiaobing Sun and Liangli Zhen and Baosheng Yu and Dacheng Tao},
+  journal={NeurIPS},
   year={2026},
-  abstract = {Key-value (KV) caching is essential for large language model inference, yet its memory overhead poses a critical bottleneck for long-context generation. Existing eviction policies predominantly rely on empirical heuristics, lacking a rigorous theoretical foundation. This work rethinks KV cache eviction through the lens of the Information Bottleneck principle. Under a linear-Gaussian surrogate of attention, we derive a closed-form mutual information objective that characterizes the effective information capacity of a retained KV cache subset. This formulation reveals that a wide range of existing eviction strategies can be interpreted as different approximations of the same capacity-maximization principle. Guided by this insight, we introduce CapKV, a capacity-aware eviction method that directly targets information preservation via a log-determinant approximation using statistical leverage scores. This approach replaces heuristic selection with a theoretically grounded mechanism that preserves the maximum predictive signal. Extensive experiments across multiple models and long-context benchmarks show that CapKV consistently outperforms prior methods, achieving a better trade-off between memory efficiency and generational fidelity.},
-  pdf={https://arxiv.org/abs/2604.25975},
-  preview={CapKV_ICML2026.png}
+  abstract = {Large language models (LLMs)-based multi-agent systems (MAS) coordinate specialized agents through prompts, tools, and communication topologies, making their hidden workflows valuable intellectual property and security-critical assets. Existing black-box MAS extraction methods implicitly assume that adversarial queries can traverse all agents, which holds for static workflows but breaks down in dynamic workflows whose execution paths depend on input semantics and intermediate states. We identify two key challenges in dynamic workflows: branch overfitting, where fully adversarial queries overfit to the same branch and extract only a subset of agents, and stealthy coverage exploration, where the adversary needs to achieve complete branch coverage with few redundant queries while not exposing the extraction task. To address these challenges, we propose FlowLeak that combines Task-Preserving Payload Template, which preserves legitimate task semantics while eliciting workflow information to mitigate branch overfitting, with Coverage-Guided Branch Exploration, which uses previously extracted workflow fragments to generate branch-targeted tasks and constrains workflow extraction as an auxiliary task requirement, thereby reducing exploration queries and making extraction harder to identify. Experiments on 102 MAS show that FlowLeak addresses both challenges and substantially improves dynamic workflow extraction (2.68× improvement). Furthermore, we show that the extracted workflow information from FlowLeak enhances downstream attacks, highlighting the security risks of MAS workflow extraction and our method.},
+  preview={NeurIPS2026Flow.png}
 }
 
 @article{Sun2026Structured,
@@ -102,6 +47,71 @@ On top of the encoder, a self-attention module is built to learn global informat
   preview={UniVRSE2026.png}
 }
 
+@article{Tiana2026Dual,
+  title={Dual-dynamic in-context learning for medical image segmentation},
+  author={Tiana Tianying Chen and Liangli Zhen* and Yanyu Xu and Shishuai Hu and Huazhu Fu and Limsoon Wong*},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2026},
+  abstract = {Visual in-context learning (ICL) enables medical image segmentation models to adapt to new tasks using only a small set of annotated support images, without additional model fine-tuning. This makes visual ICL promising for clinical deployment, yet a fundamental limitation remains. 
+Current ICL models lack the intrinsic ability to adaptively integrate supports based on their relevance to the query. By either aggregating supports uniformly or relying on external retrieval, these methods limit query-aware support integration within the model itself. We introduce Dual-DSA (Dual-Dynamic Support Alignment), a reliability-aware visual ICL framework that dynamically integrates supports at the patch and support-set levels. At the patch level, DynPatch-Align selectively attends to relevant support regions for each query location, enabling fine-grained contextual alignment. At the support set level, evidential fusion integrates support-conditioned predictions based on uncertainty and consistency, and provides an Aggregate Evidential Confidence Score for reliability assessment. Together, these mechanisms enable intrinsic, query-adaptive support integration across both levels. Extensive experiments on 11 medical imaging datasets across endoscopy, breast ultrasound, and thyroid ultrasound show that Dual-DSA achieves strong full-coverage performance, obtaining the best Dice score on 8 out of 11 datasets and consistently outperforming its attention-based ICL backbone. Furthermore, the derived confidence scores correlate with segmentation quality and enable confidence-based rejection to improve retained-case performance, providing a practical mechanism for quality control in clinical workflows.},
+  pdf={DualDSA-TMI2026.pdf},
+  preview={TMI2026-DualDSA.png}
+}
+
+@article{Wang2026Sing,
+  title={Single-domain generalization via path flatness-aware optimization of loss landscapes},
+  author={Zizhou Wang and Yan Wang and Jiawei Du and Yangqin Feng and Joey Tianyi Zhou and Rick Siow Mong Goh and Yong Liu and Liangli Zhen*},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2026},
+  abstract = {Domain generalization methods traditionally rely on multiple source domains to achieve robust performance across unseen target domains. However, single-domain generalization (SDG) presents a more practical paradigm by learning from a single source domain, addressing scenarios where access to multiple domains is limited. While existing SDG approaches primarily focus on data augmentation and style transfer techniques to enhance model robustness, these methods often incur substantial computational overhead and may inadequately capture the complexity of real-world domain shifts. In this paper, we propose Path Flatness-aware Optimization (PFO), an optimization framework that addresses the fundamental challenges of SDG. Unlike conventional approaches that rely on synthetic data generation, PFO identifies and exploits regions of flat minima within the optimization landscape of deep neural networks. The framework employs an iterative optimization strategy to construct a path through the parameter space along which an ensemble of candidate models achieves minimal empirical risk. The initialization of this optimization path is achieved through the strategic interconnection of model instances, each originating from carefully selected anchor points that are computationally determined through systematic analysis of classification decision manifolds. This optimization path serves as a mechanism for implicit distribution alignment between source and target domains within the loss landscape, consequently enhancing the model's capacity for cross-domain generalization. Empirical evaluation on multiple benchmark datasets demonstrates significant performance improvements in cross-domain generalization, validating the efficacy of our approach.},
+  pdf={PFO2025.pdf},
+  preview={PFO2025.png}
+}
+
+@article{wang2026adaptive,
+  title={Self-adaptive neural networks for domain generalization in medical image segmentation},
+  author={Yan Wang and Zizhou Wang and Yangqin Feng and Lei Zhang and Rick Siow Mong Goh and Yong Liu and Liangli Zhen*},
+  journal={Expert Systems with Applications},
+  year={2026},
+  abstract = {Domain generalization is a critical challenge for expert systems in real-world medical environments, where data distributions often vary across acquisition settings. Existing domain generalization methods typically rely on carefully designed data augmentation or lack adaptivity to new data, which limits their applicability to new datasets. To address this problem, we propose a Self-Adaptive Neural Network (SA-Net) that learns domain-insensitive yet instance-adaptive feature representations. The proposed framework introduces a lightweight self-adaptive generator to rectify feature representations at the instance level and combines it with adversarial domain learning to suppress domain-specific information. Furthermore, a novel sample error loss is designed to improve the training of the self-adaptive generator by enforcing that removing the rectified latent representation from the original feature representation does not affect the final segmentation output. The effectiveness of SA-Net is validated on three representative medical image segmentation tasks, i.e., eye vessel segmentation, optic disc/cup segmentation, and skin lesion segmentation, across 12 datasets with substantial domain diversity. Experimental results demonstrate that SA-Net consistently outperforms state-of-the-art domain generalization methods on unseen domains while maintaining competitive computational efficiency. These results indicate that SA-Net provides a robust and scalable solution for intelligent medical image segmentation systems under distribution shifts.},
+  pdf={ESA2026_SANN.pdf},
+  preview={ESA2026_SANN.png}
+}
+
+@article{Setthakorn2026noise,
+  title={Noise-adaptive diffusion sampling for inverse problems without task-specific tuning},
+  author={Yingzhi Xia and Setthakorn Tanomkiattikun and Liangli Zhen* and Zaiwang Gu},
+  journal={ICLR},
+  year={2026},
+  abstract = {Diffusion models (DMs) have recently shown remarkable performance on inverse problems (IPs). Optimization-based methods can fast solve IPs using DMs as powerful regularizers, but it is susceptible to local minima and noise overfitting. Although DMs can provide strong priors for Bayesian approaches, enforcing measurement consistency during the denoising process leads to manifold infeasibility issues. We propose Noise-space Hamiltonian Monte Carlo (N-HMC), a posterior sampling method that treats reverse diffusion as a deterministic mapping from initial noise to clean images. N-HMC enables comprehensive exploration of the solution space, avoiding local optima. By moving inference entirely into the initial-noise space, N-HMC keeps proposals on the learned data manifold. We provide a comprehensive theoretical analysis of our approach and extend the framework to a noise-adaptive variant (NA-NHMC) that effectively handles IPs with unknown noise type and level. Extensive experiments across four linear and three nonlinear inverse problems demonstrate that NA-NHMC achieves superior reconstruction quality with robust performance across different hyperparameters and initializations, significantly outperforming recent state-of-the-art methods. Code will be made available on GitHub upon publication.},
+  pdf={ICLR2026_NAHMC.pdf},
+  code={https://na-hmc.github.io/},
+  preview={HMC2026.png}
+}
+
+@article{Wu2026Gapnet,
+  title={GAPNet: A lightweight framework for image and video salient object detection via granularity-aware paradigm},
+  author={Yu-Huan Wu and Wei Liu* and Zi-Xuan Zhu and Zizhou Wang and Yong Liu and Liangli Zhen*},
+  journal={Machine Intelligence Research},
+  year={2026},
+  abstract = {Recent salient object detection (SOD) models predominantly rely on heavyweight backbones, incurring substantial computational cost and hindering their practical application in various real-world settings, particularly on edge devices. This paper presents GAPNet, a lightweight network built on the granularity-aware paradigm for both image and video SOD. We assign saliency maps of different granularities to supervise the multi-scale decoder side-outputs:
+coarse object locations for high-level outputs and fine-grained object boundaries for low-level outputs. Specifically, our decoder is built with granularity-aware connections which fuse high-level features of low granularity and low-level features of high granularity, respectively. To support these connections, we design granular pyramid convolution (GPC) and cross-scale attention (CSA) modules for efficient fusion of low-scale and high-scale features, respectively.
+On top of the encoder, a self-attention module is built to learn global information, enabling accurate object localization with negligible computational cost. Unlike traditional U-Net-based approaches, our proposed method optimizes feature utilization and semantic interpretation while applying appropriate supervision at each processing stage. Extensive experiments show that the proposed method achieves a new state-of-the-art performance among lightweight image and video SOD models.},
+  pdf={GAPNet2025.pdf},
+  preview={GAPNet.png}
+}
+
+
+@article{Yang2026Rethinking,
+  title={Rethinking KV cache eviction via a unified information-theoretic objective},
+  author={Jiaming Yang and Chenwei Tang and Liangli Zhen and Jiancheng Lv},
+  journal={ICML},
+  year={2026},
+  abstract = {Key-value (KV) caching is essential for large language model inference, yet its memory overhead poses a critical bottleneck for long-context generation. Existing eviction policies predominantly rely on empirical heuristics, lacking a rigorous theoretical foundation. This work rethinks KV cache eviction through the lens of the Information Bottleneck principle. Under a linear-Gaussian surrogate of attention, we derive a closed-form mutual information objective that characterizes the effective information capacity of a retained KV cache subset. This formulation reveals that a wide range of existing eviction strategies can be interpreted as different approximations of the same capacity-maximization principle. Guided by this insight, we introduce CapKV, a capacity-aware eviction method that directly targets information preservation via a log-determinant approximation using statistical leverage scores. This approach replaces heuristic selection with a theoretically grounded mechanism that preserves the maximum predictive signal. Extensive experiments across multiple models and long-context benchmarks show that CapKV consistently outperforms prior methods, achieving a better trade-off between memory efficiency and generational fidelity.},
+  pdf={https://arxiv.org/abs/2604.25975},
+  preview={CapKV_ICML2026.png}
+}
+
 @article{wang2025continu,
   title={Continuous disentangled joint space learning for domain generalization},
   author={Zizhou Wang and Yan Wang and Yangqin Feng and Jiawei Du and Yong Liu and Rick Siow Mong Goh and Liangli Zhen*},
@@ -110,18 +120,6 @@ On top of the encoder, a self-attention module is built to learn global informat
   abstract = {Domain generalization aims to learn a model on one or multiple observed source domains that can generalize to unseen target test domains. Previous approaches have focused on extracting domain-invariant information from multiple source domains, but domain-specific information is also closely tied to semantics in individual domains and is not well-suited for generalization to the target domain. In this paper, we propose a novel domain generalization method called Continuous Disentangled Joint Space Learning (CJSL), which leverages both domain-invariant and domain-specific information for more effective domain generalization. The key idea behind CJSL is to formulate and learn a continuous joint space for domain-specific representations from source domains through iterative feature disentanglement. This learned continuous joint space can then be used to simulate domain-specific representations for test samples from a mixture of multiple domains via Monte Carlo sampling during the inference stage. Unlike existing approaches, which exploit domain-invariant feature vectors only or aim to learn a universal domain-specific feature extractor, we simulate domain-specific representations via sampling the latent vectors in the learned continuous joint space for the test sample to fully utilize the power of multiple domain-specific classifiers for the robust prediction. Empirical results demonstrate that CJSL outperforms 19 state-of-the-art methods on seven benchmarks, indicating the effectiveness of our proposed method.},
   pdf={TNNLS_CJSL.pdf},
   preview={DG_TNNLS.png}
-}
-
-
-@article{Liao2025Vision,
-  title={Vision-amplified semantic entropy for hallucination detection in medical visual question answering},
-  author={Zehui Liao and Shishuai Hu and Ke Zou and Huazhu Fu and Liangli Zhen* and Yong Xia*},
-  journal={MICCAI},
-  year={2025},
-  abstract = {Multimodal large language models (MLLMs) have demonstrated significant potential in medical Visual Question Answering (VQA). Yet, they remain prone to hallucinations—incorrect responses that contradict input images, posing substantial risks in clinical decision-making. Detecting these hallucinations is essential for establishing trust in MLLMs among clinicians and patients, thereby enabling their real-world adoption. Current hallucination detection methods, especially semantic entropy (SE), have demonstrated promising hallucination detection capacity for LLMs. However, adapting SE to medical MLLMs by incorporating visual perturbations presents a dilemma. Weak perturbations preserve image content and ensure clinical validity, but may be overlooked by medical MLLMs, which tend to over-rely on language priors. In contrast, strong perturbations can distort essential diagnostic features, compromising clinical interpretation. To address this issue, we propose Vision Amplified Semantic Entropy (VASE), which incorporates weak image transformations and amplifies the impact of visual input, to improve hallucination detection in medical VQA. We first estimate the semantic predictive distribution under weak visual transformations to preserve clinical validity, and then amplify visual influence by contrasting this distribution with that derived from a distorted image. The entropy of the resulting distribution is estimated as VASE. Experiments on two medical open-ended VQA datasets demonstrate that VASE consistently outperforms existing hallucination detection methods. The code will be available at https://github.com/Merrical/VASE.},
-  pdf={VASE2025.pdf},
-  code={https://github.com/Merrical/VASE},
-  preview={VASE2025.png}
 }
 
 
@@ -146,6 +144,18 @@ On top of the encoder, a self-attention module is built to learn global informat
   preview={GIRG.png}
 }
 
+@article{Liao2025Vision,
+  title={Vision-amplified semantic entropy for hallucination detection in medical visual question answering},
+  author={Zehui Liao and Shishuai Hu and Ke Zou and Huazhu Fu and Liangli Zhen* and Yong Xia*},
+  journal={MICCAI},
+  year={2025},
+  abstract = {Multimodal large language models (MLLMs) have demonstrated significant potential in medical Visual Question Answering (VQA). Yet, they remain prone to hallucinations—incorrect responses that contradict input images, posing substantial risks in clinical decision-making. Detecting these hallucinations is essential for establishing trust in MLLMs among clinicians and patients, thereby enabling their real-world adoption. Current hallucination detection methods, especially semantic entropy (SE), have demonstrated promising hallucination detection capacity for LLMs. However, adapting SE to medical MLLMs by incorporating visual perturbations presents a dilemma. Weak perturbations preserve image content and ensure clinical validity, but may be overlooked by medical MLLMs, which tend to over-rely on language priors. In contrast, strong perturbations can distort essential diagnostic features, compromising clinical interpretation. To address this issue, we propose Vision Amplified Semantic Entropy (VASE), which incorporates weak image transformations and amplifies the impact of visual input, to improve hallucination detection in medical VQA. We first estimate the semantic predictive distribution under weak visual transformations to preserve clinical validity, and then amplify visual influence by contrasting this distribution with that derived from a distorted image. The entropy of the resulting distribution is estimated as VASE. Experiments on two medical open-ended VQA datasets demonstrate that VASE consistently outperforms existing hallucination detection methods. The code will be available at https://github.com/Merrical/VASE.},
+  pdf={VASE2025.pdf},
+  code={https://github.com/Merrical/VASE},
+  preview={VASE2025.png}
+}
+
+
 @article{Li2025DECH,
   title={Deep evidential hashing for trustworthy cross-modal retrieval},
   author={Yuan Li and Liangli Zhen and Yuan Sun and Dezhong Peng and Xi Peng and Peng Hu},
@@ -166,7 +176,6 @@ On top of the encoder, a self-attention module is built to learn global informat
   abstract = {Semantic segmentation tasks naturally require high-resolution information for pixel-wise segmentation and global context information for class prediction. While existing vision transformers demonstrate promising performance, they often utilize high-resolution context modeling, resulting in a computational bottleneck. In this work, we challenge conventional wisdom and introduce the Low-Resolution Self-Attention (LRSA) mechanism to capture global context at a significantly reduced computational cost, i.e., FLOPs. Our approach involves computing self-attention in a fixed low-resolution space, regardless of the input image's resolution, with additional 3x3 depth-wise convolutions to capture fine details in the high-resolution space. We demonstrate the effectiveness of our LRSA approach by building the LRFormer, a vision transformer with an encoder-decoder structure. Extensive experiments on the ADE20K, COCO-Stuff, and Cityscapes datasets demonstrate that LRFormer outperforms state-of-the-art models.},
   preview={LRFormer.png}
 }
-
 
 
 @article{xue2025neural,
