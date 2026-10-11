@@ -20,6 +20,8 @@ Our work in machine learning includes safe & robust learning, multimodal learnin
 
 <i>Safe and robust machine learning</i>
 <ul>
+<li>[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7227210">Information Fusion26</a>] A defense method for protecting large language models against multi-turn jailbreak attacks</li>
+<li>[<a href="">NeurIPS26</a>] A red teaming method to extract workflow information from multi-agent systems</li>
 <li>[<a href="https://arxiv.org/pdf/2603.16192v1">arXiv26</a>] A novel jailbreak attack framework for risk assessment of large language models</li>
 <li>[<a href="https://liangli-zhen.github.io/assets/pdf/SGDRA2026.pdf">TIFS26</a>] A defense method for preventing gradient inversion attacks in federated learning systems</li>
 <li>[<a href="https://liangli-zhen.github.io/assets/pdf/PFO2025.pdf">TNNLS26</a>] A domain generalisation method from the optimisation perspective (path flateness of loss landspaces)</li>
