@@ -25,7 +25,7 @@ social: false  # includes social icons at the bottom of the page
 <Strong>News</strong>
 
 <ul align="justify">
-  <li>[Oct 2026] CFAR (A*STAR) is hiring a Research Scientist in Trustworthy AI.</li>
+  <li>[Oct 2026] CFAR (A*STAR) is hiring a (Senior) Research Scientist in Trustworthy AI.</li>
   <li>[Oct 2026] Our paper on Securing large language model agents against multi-turn jailbreaks via evolving intent-risk graphs has been accepted for publication in <i>Information Fusion</i>.</li>
   <li>[Sept 2026] Our paper on FlowLeak: Coverage-Guided Extraction of Dynamic Workflows in LLM-Based Multi-Agent Systems has been accepted for publication at <i>NeurIPS 2026</i>.</li>
   <li>[Sept 2026] Our paper on Dual-Dynamic In-Context Learning for Medical Image Segmentation has been accepted for publication in <i>IEEE Transactions on Medical Imaging</i>.</li>
