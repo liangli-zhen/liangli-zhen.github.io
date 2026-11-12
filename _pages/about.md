@@ -25,8 +25,7 @@ social: false  # includes social icons at the bottom of the page
 <Strong>News</strong>
 
 <ul align="justify">
-  <li>[Nov 2026] CFAR (A*STAR) is hiring a (Senior) Research Scientist in Trustworthy AI.</li>
-  <li>[Nov 2026] I have been named among the <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9">World's Top 2% Scientists</a>, a list compiled by Stanford University and Elsevier.</li>
+  <li>[Nov 2026] I have been named among the <a href="https://www.a-star.edu.sg/cfar/news/features/worlds-top-2-scientist-list-2025">World's Top 2% Scientists</a>, a list compiled by Stanford University and Elsevier.</li>
   <li>[Oct 2026] Our paper on Securing large language model agents against multi-turn jailbreaks via evolving intent-risk graphs has been accepted for publication in <i>Information Fusion</i>.</li>
   <li>[Sept 2026] Our paper on FlowLeak: Coverage-Guided Extraction of Dynamic Workflows in LLM-Based Multi-Agent Systems has been accepted for publication at <i>NeurIPS 2026</i>.</li>
   <li>[Sept 2026] Our paper on Dual-Dynamic In-Context Learning for Medical Image Segmentation has been accepted for publication in <i>IEEE Transactions on Medical Imaging</i>.</li>
