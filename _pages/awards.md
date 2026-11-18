@@ -2,11 +2,12 @@
 layout: page
 permalink: /award/
 title: award
-description: I am honoured to be given the following awards and scholarships
+description: I am honoured to be given the following awards and reconitions
 nav: true
 nav_order: 6
 ---
 <ul>
+<li><a href="https://www.a-star.edu.sg/cfar/news/features/worlds-top-2-scientist-list-2025">World's Top 2% Scientists</a>, 2026</li>
 <li>Third Place in the <a href="https://aisingapore.org/global-challenge-for-safe-and-secure-llms/">Global Challenge for Safe and Secure LLMs</a> (Track 2: Defence), Team Leader, 2025</li>
 <li>First Place in the <a href="https://ijcai24.org/competitions-and-challenges/index.html">IJCAI RePSS Challenge Track 1</a>, 2024</li>
 <li>First Place in the <a href="https://ijcai24.org/competitions-and-challenges/index.html">IJCAI RePSS Challenge Track 2</a>, 2024</li>
